@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "4bfc4a1d112f52ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dfbf08a28f815a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d1cac9205eae2a0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5906b1376d41225f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac407ef918b686ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aa57fc4aee00ef9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f05576aadb37f79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f2e2620434c9f15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "d64c6138de1ce473",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcebe89b123a5f85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c740553d83fbc20a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea439244eafb765a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed68f6b5d4f64d80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73a6152a28c1e4e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "3aa57fc4aee00ef9",
+  "lastOpenFiles": [
+    "index.md",
+    "Маркс и Энгельс/ТОМ 1/00.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/25.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/24.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/23.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/22.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/21.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/20.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/19.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/18.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/17.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/16.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/15.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/14.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/13.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/12.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/11.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/10.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/09.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/08.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/07.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/06.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/05.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/04.md",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/03.md",
+    "Дополнительные материалы/М.В.Попов - Введение в диалектику/Goblin/04.md",
+    "Маркс и Энгельс/ТОМ 3",
+    "Маркс и Энгельс/ТОМ 2",
+    "Маркс и Энгельс/ТОМ 1",
+    "Маркс и Энгельс",
+    "Свободное Время/Научный социализм",
+    "Свободное Время",
+    "Дополнительные материалы",
+    "Дополнительные материалы/М.В.Попов - Введение в диалектику/Goblin",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/clip_image003.png",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/clip_image002.png",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/clip_image001 1.png",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы/clip_image001.png",
+    "Дополнительные материалы/Ф.Энгельс - Диалектика природы",
+    "Dialectx/Lenin",
+    "Г.В.Ф.Гегель - Наука Логики/images/image010.png",
+    "Г.В.Ф.Гегель - Наука Логики/images/image011.png",
+    "Г.В.Ф.Гегель - Наука Логики/images/image008.png",
+    "Г.В.Ф.Гегель - Наука Логики/images/image007.png",
+    "Г.В.Ф.Гегель - Наука Логики/images/image009.png",
+    "Г.В.Ф.Гегель - Наука Логики/images/image006.png"
+  ]
+}

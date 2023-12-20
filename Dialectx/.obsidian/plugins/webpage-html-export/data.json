@@ -8,7 +8,7 @@
   "allowFoldingHeadings": true,
   "sidebarsAlwaysCollapsible": true,
   "addFilenameTitle": false,
-  "minifyHTML": true,
+  "minifyHTML": false,
   "customLineWidth": "100%",
   "contentWidth": "100%",
   "sidebarWidth": "",
@@ -29,7 +29,7 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "exportPath": "D:\\GITHUB\\Dialectx",
+  "exportPath": "D:\\GITHUB\\Smartbook-Dialiectx",
   "filesToExport": [
     [
       "Dialectx/Engles/00.md",

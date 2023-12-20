@@ -1,0 +1,1365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="rus">
+  <head>
+    <meta name="dtb:uid" content="3e44c604-856e-404e-a17f-db9dad1b3ea1"/>
+    <meta name="dtb:depth" content="4"/>
+    <meta name="dtb:generator" content="calibre (6.13.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Собрание сочинений. Том 5. 1981-1982</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ugo9C4UGdPlzCAAkJWGc6oC" playOrder="1">
+      <navLabel>
+        <text>СОЧИНЕНИЯ</text>
+      </navLabel>
+      <content src="index_split_000.xhtml"/>
+    </navPoint>
+    <navPoint id="uAbmxbAw7EWcqqqVXTQid4C" playOrder="2">
+      <navLabel>
+        <text>Решение Идеологической комиссии Центрального Комитета Рабочей партии России «О подготовке и издании Собрания сочинений М. В. Попова»</text>
+      </navLabel>
+      <content src="index_split_001.xhtml"/>
+    </navPoint>
+    <navPoint id="uXqs7v6jqSOAwCIAwSxhKPD" playOrder="3">
+      <navLabel>
+        <text>ПРЕДИСЛОВИЕ К ПЯТОМУ ТОМУ</text>
+      </navLabel>
+      <content src="index_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="uwXGwJ7eIRcQbuVHDK6snDD" playOrder="4">
+      <navLabel>
+        <text>БОЕВОЙ ПОМОЩНИК ПАРТИИ[1]</text>
+      </navLabel>
+      <content src="index_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="uupdAeaHNX3nnRuKhMo4yv5" playOrder="5">
+      <navLabel>
+        <text>О ДИАЛЕКТИКЕ РАЗВИТИЯ И КРИТЕРИЯХ РАЗВИТОСТИ ПРОИЗВОДСТВЕННЫХ ОТНОШЕНИЙ СОЦИАЛИЗМА[3]</text>
+      </navLabel>
+      <content src="index_split_004.xhtml"/>
+    </navPoint>
+    <navPoint id="uytRhN8Wt8nZPeqfL8i7jyB" playOrder="6">
+      <navLabel>
+        <text>Р. И. Косолапов. Социализм: к вопросам теории. Изд. 2-е, исправленное и дополненное. М., «Мысль», 1979[13]</text>
+      </navLabel>
+      <content src="index_split_005.xhtml"/>
+    </navPoint>
+    <navPoint id="udbSN4GSQmFXrgxqFgnmPD5" playOrder="7">
+      <navLabel>
+        <text>ОПТИМИЗАЦИЯ УПРАВЛЕНИЯ И ВОСПРОИЗВОДСТВО СОЦИАЛИСТИЧЕСКИХ ПРОИЗВОДСТВЕННЫХ ОТНОШЕНИЙ[14]</text>
+      </navLabel>
+      <content src="index_split_006.xhtml"/>
+    </navPoint>
+    <navPoint id="ufGzcmSdBaB5oISRgdKBAf7" playOrder="8">
+      <navLabel>
+        <text>Проблемы совершенствования управления. Родин С. Г. Управление экономикой (проблемы совершенствования на современном этапе). М., «Экономика». 1979. 176 с.[15]</text>
+      </navLabel>
+      <content src="index_split_007.xhtml"/>
+    </navPoint>
+    <navPoint id="uhRBEbIrxY724oF6nQdg754" playOrder="9">
+      <navLabel>
+        <text>К ВОПРОСУ О СИСТЕМНОМ ПОДХОДЕ К ИССЛЕДОВАНИЮ ПРОИЗВОДСТВЕННЫХ ОТНОШЕНИИ[17]</text>
+      </navLabel>
+      <content src="index_split_008.xhtml"/>
+    </navPoint>
+    <navPoint id="uQBMQEj5OcEuMI69kGqyTgG" playOrder="10">
+      <navLabel>
+        <text>ОТВЕТСТВЕННОСТЬ ХУДОЖНИКА. НЕКОТОРЫЕ ПРОБЛЕМЫ СОВРЕМЕННОЙ ДРАМАТУРГИЧЕСКОЙ ЛЕНИНИАНЫ[47]</text>
+      </navLabel>
+      <content src="index_split_009.xhtml"/>
+    </navPoint>
+    <navPoint id="u5bimO9O7Qw6BPZfqj9rULB" playOrder="11">
+      <navLabel>
+        <text>НАСТУПЛЕНИЕ НА АНТИКОММУНИЗМ[49]</text>
+      </navLabel>
+      <content src="index_split_010.xhtml"/>
+    </navPoint>
+    <navPoint id="ul65mdjIYnnjyJJEdMaQuDD" playOrder="12">
+      <navLabel>
+        <text>ВАСИЛ БЕЙДА. Политика и идеология: К положению в партии и обществе в недавнем прошлом/Общая редакция и предисловие Ю. Н. Щербакова. Пер. со словац. – М.: Прогресс, 1979.– 300 с.[51]</text>
+      </navLabel>
+      <content src="index_split_011.xhtml"/>
+    </navPoint>
+    <navPoint id="untVjasbf4NKObAdwNuFPaB" playOrder="13">
+      <navLabel>
+        <text>МЕТОДОЛОГИЧЕСКИЕ ОСНОВЫ ИССЛЕДОВАНИЯ СОЦИАЛЬНО-ЭКОНОМИЧЕСКИХ ПРОЦЕССОВ[54]</text>
+      </navLabel>
+      <content src="index_split_012.xhtml"/>
+    </navPoint>
+    <navPoint id="uVKgqVjz8C6OPFqfhxYs3rG" playOrder="14">
+      <navLabel>
+        <text>РАЗРАБОТКА ВОПРОСА ОБ ЭКОНОМИЧЕСКОЙ РОЛИ СОЦИАЛИСТИЧЕСКОГО ГОСУДАРСТВА И ЕЕ ЗНАЧЕНИЕ ДЛЯ СОВЕРШЕНСТВОВАНИЯ ОТНОШЕНИЙ УПРАВЛЕНИЯ НА СОВРЕМЕННОМ ЭТАПЕ[87]</text>
+      </navLabel>
+      <content src="index_split_013.xhtml"/>
+    </navPoint>
+    <navPoint id="u7LcxpdBTjcz7qhZGZuHew4" playOrder="15">
+      <navLabel>
+        <text>МАТЕМАТИКА В ПОЛИТИЧЕСКОЙ ЭКОНОМИИ[105]</text>
+      </navLabel>
+      <content src="index_split_014.xhtml"/>
+      <navPoint id="uvxD6mISTh6wLjx4NnnYUT3" playOrder="16">
+        <navLabel>
+          <text>ПРЕДИСЛОВИЕ</text>
+        </navLabel>
+        <content src="index_split_015.xhtml"/>
+      </navPoint>
+      <navPoint id="uppzsCKSL6oyhVP62vyJTID" playOrder="17">
+        <navLabel>
+          <text>ВВЕДЕНИЕ. СТАНОВЛЕНИЕ МАТЕМАТИЧЕСКОГО МЕТОДА В МАРКСИСТСКОЙ ПОЛИТИЧЕСКОЙ ЭКОНОМИИ</text>
+        </navLabel>
+        <content src="index_split_016.xhtml"/>
+      </navPoint>
+      <navPoint id="uFParjWhm3PO3e2NSBrt6QA" playOrder="18">
+        <navLabel>
+          <text>Глава первая. МЕТОДОЛОГИЧЕСКИЕ ОСНОВЫ ПРИМЕНЕНИЯ МАТЕМАТИКИ В ПОЛИТИЧЕСКОЙ ЭКОНОМИИ</text>
+        </navLabel>
+        <content src="index_split_017.xhtml"/>
+        <navPoint id="ulwlmunvUWRcjjROsodlAG3" playOrder="19">
+          <navLabel>
+            <text>§ 1. ДИАЛЕКТИКА И МАТЕМАТИЧЕСКИЙ МЕТОД ПОЛИТИКО-ЭКОНОМИЧЕСКИХ ИССЛЕДОВАНИЙ</text>
+          </navLabel>
+          <content src="index_split_017.xhtml#calibre_toc_210"/>
+        </navPoint>
+        <navPoint id="u5L88wcOft6jI3Sb2TGDxdG" playOrder="20">
+          <navLabel>
+            <text>§ 2. УСЛОВИЯ ПРИМЕНЕНИЯ МАТЕМАТИКИ В ПОЛИТИЧЕСКОЙ ЭКОНОМИИ И ЕЕ МАТЕМАТИЧЕСКИЙ АППАРАТ</text>
+          </navLabel>
+          <content src="index_split_017.xhtml#calibre_toc_211"/>
+        </navPoint>
+        <navPoint id="uBKfaHS7UwOXyMaYoXDxYb6" playOrder="21">
+          <navLabel>
+            <text>§ 3. МАТЕМАТИКА КАК СРЕДСТВО ВЫРАЖЕНИЯ И ИССЛЕДОВАНИЯ ОТДЕЛЬНЫХ КОЛИЧЕСТВЕННЫХ ЗАВИСИМОСТЕЙ</text>
+          </navLabel>
+          <content src="index_split_017.xhtml#calibre_toc_212"/>
+        </navPoint>
+        <navPoint id="uMcceId2C4t9RmMhCMoVhBG" playOrder="22">
+          <navLabel>
+            <text>§ 4. МАТЕМАТИКА КАК СРЕДСТВО МОДЕЛИРОВАНИЯ ЭКОНОМИЧЕСКИХ ЯВЛЕНИЙ</text>
+          </navLabel>
+          <content src="index_split_017.xhtml#calibre_toc_213"/>
+        </navPoint>
+        <navPoint id="uHRp72QuTKnnQnHfgCVzfEE" playOrder="23">
+          <navLabel>
+            <text>§ 5. ВЛИЯНИЕ МАТЕМАТИКИ НА РАЗВИТИЕ ПОЛИТИЧЕСКОЙ ЭКОНОМИИ</text>
+          </navLabel>
+          <content src="index_split_017.xhtml#calibre_toc_214"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="uQJ7cNxwtGEJblKOYC8vHf4" playOrder="24">
+        <navLabel>
+          <text>Глава вторая. ИСПОЛЬЗОВАНИЕ МАТЕМАТИКИ В КУРСЕ ПОЛИТИЧЕСКОЙ ЭКОНОМИИ СОЦИАЛИЗМА</text>
+        </navLabel>
+        <content src="index_split_018.xhtml"/>
+        <navPoint id="uYBbWWF89DTyJQzF6pjZG78" playOrder="25">
+          <navLabel>
+            <text>Тема: Общественная собственность на средства производства. Характер труда при социализме. Основной экономический закон социализма</text>
+          </navLabel>
+          <content src="index_split_018.xhtml#calibre_toc_215"/>
+        </navPoint>
+        <navPoint id="uKc6VemOvd6u4X25yZfrnv2" playOrder="26">
+          <navLabel>
+            <text>Тема: Планомерное развитие социалистической экономики. Планирование социалистической экономики</text>
+          </navLabel>
+          <content src="index_split_018.xhtml#calibre_toc_216"/>
+        </navPoint>
+        <navPoint id="uBSQXbAsYkP3MzWMGroDt4D" playOrder="27">
+          <navLabel>
+            <text>Тема: Товарно-денежные отношения при социализме</text>
+          </navLabel>
+          <content src="index_split_018.xhtml#calibre_toc_217"/>
+        </navPoint>
+        <navPoint id="uXU84GuFQQpaKSxsbikPXz6" playOrder="28">
+          <navLabel>
+            <text>Тема: Процесс социалистического производства</text>
+          </navLabel>
+          <content src="index_split_018.xhtml#calibre_toc_218"/>
+        </navPoint>
+        <navPoint id="uiafRV8fPWsog4TfTXnyaHC" playOrder="29">
+          <navLabel>
+            <text>Тема: Факторы социалистического производства. Закон неуклонного роста производительности общественного труда</text>
+          </navLabel>
+          <content src="index_split_019.xhtml"/>
+        </navPoint>
+        <navPoint id="uLiyxHbAiUXDqcfna6pN2w9" playOrder="30">
+          <navLabel>
+            <text>Тема: Распределение по труду. Общественные фонды потребления</text>
+          </navLabel>
+          <content src="index_split_019.xhtml#calibre_toc_220"/>
+        </navPoint>
+        <navPoint id="ulmUbtxg9zsNacM3ssckLq6" playOrder="31">
+          <navLabel>
+            <text>Тема: Накопление и потребление при социализме. Зависимость темпов расширения производства от нормы накопления</text>
+          </navLabel>
+          <content src="index_split_019.xhtml#calibre_toc_221"/>
+        </navPoint>
+        <navPoint id="uayImfcd37K659enr52M8Y3" playOrder="32">
+          <navLabel>
+            <text>Тема: Основы хозяйственного расчета.</text>
+          </navLabel>
+          <content src="index_split_019.xhtml#calibre_toc_222"/>
+        </navPoint>
+        <navPoint id="ukn7RkCi8tuNpi9m3UazwUG" playOrder="33">
+          <navLabel>
+            <text>Тема: Издержки социалистических предприятий. Система цен. Чистый доход и финансы</text>
+          </navLabel>
+          <content src="index_split_019.xhtml#calibre_toc_223"/>
+        </navPoint>
+        <navPoint id="uTibLhV6Nti8S3jhwfaygYB" playOrder="34">
+          <navLabel>
+            <text>Тема: Социалистическое расширенное воспроизводство</text>
+          </navLabel>
+          <content src="index_split_019.xhtml#calibre_toc_224"/>
+        </navPoint>
+        <navPoint id="uu7D5SZYKb9aSKJ6QifFehA" playOrder="35">
+          <navLabel>
+            <text>Тема: Соревнование двух мировых систем и неизбежность победы коммунизма в мировом масштабе</text>
+          </navLabel>
+          <content src="index_split_019.xhtml#calibre_toc_225"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="u9pBlrVHmyunoHBCTsfeEo5" playOrder="36">
+        <navLabel>
+          <text>ИСПОЛЬЗОВАННАЯ ЛИТЕРАТУРА</text>
+        </navLabel>
+        <content src="index_split_020.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="umLpZ2BUpK4nMAHX2yBTZf9" playOrder="37">
+      <navLabel>
+        <text>Примечания</text>
+      </navLabel>
+      <content src="index_split_021.xhtml"/>
+    </navPoint>
+    <navPoint id="ucpKGZvAKen2ME3s7JkiAV2" playOrder="38">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index_split_022.xhtml"/>
+    </navPoint>
+    <navPoint id="uP4cFuPZenbXdft6mO9eN7C" playOrder="39">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index_split_023.xhtml"/>
+    </navPoint>
+    <navPoint id="uMUGU98vFV8blhPN5Sdcpk3" playOrder="40">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="index_split_024.xhtml"/>
+    </navPoint>
+    <navPoint id="upGPXAYAxb6Zfchll8SXuCA" playOrder="41">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="index_split_025.xhtml"/>
+    </navPoint>
+    <navPoint id="uelEOk8N86VMYVXIztogRQ6" playOrder="42">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="index_split_026.xhtml"/>
+    </navPoint>
+    <navPoint id="uwqykFC8yHo7ITBLoVwcU8H" playOrder="43">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="index_split_027.xhtml"/>
+    </navPoint>
+    <navPoint id="u5gCxW9EI7rOrO89TBBe595" playOrder="44">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="index_split_028.xhtml"/>
+    </navPoint>
+    <navPoint id="uy92GE23FpLAQdeuFouub52" playOrder="45">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="index_split_029.xhtml"/>
+    </navPoint>
+    <navPoint id="ug5cApczmd8oZVppnO3lQnF" playOrder="46">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="index_split_030.xhtml"/>
+    </navPoint>
+    <navPoint id="ulPHhS6498KUumeIRj4hzE4" playOrder="47">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="index_split_031.xhtml"/>
+    </navPoint>
+    <navPoint id="uMzVBeJW3Q3RSJrubwOOKRG" playOrder="48">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="index_split_032.xhtml"/>
+    </navPoint>
+    <navPoint id="uziE8ADpOnSC6GNvu4b5mi6" playOrder="49">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="index_split_033.xhtml"/>
+    </navPoint>
+    <navPoint id="u4enSQuqBFjbWKUTHeNU93F" playOrder="50">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="index_split_034.xhtml"/>
+    </navPoint>
+    <navPoint id="ucGFzEHHm9PljbpUU5fcM6E" playOrder="51">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="index_split_035.xhtml"/>
+    </navPoint>
+    <navPoint id="uHE5VHzj7KkO6gIIt6zW3q2" playOrder="52">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="index_split_036.xhtml"/>
+    </navPoint>
+    <navPoint id="uhjUoBSeuHIgtwPHV486sm2" playOrder="53">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="index_split_037.xhtml"/>
+    </navPoint>
+    <navPoint id="ui67sOEwuIAkDeRzBzawPs9" playOrder="54">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="index_split_038.xhtml"/>
+    </navPoint>
+    <navPoint id="uxVgVmOMEidSYLM6HuEr4n3" playOrder="55">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="index_split_039.xhtml"/>
+    </navPoint>
+    <navPoint id="uYV4ZitFaeSAJFz4JeFC5DH" playOrder="56">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="index_split_040.xhtml"/>
+    </navPoint>
+    <navPoint id="uhOffGgvP76enxPMdvuV4D8" playOrder="57">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="index_split_041.xhtml"/>
+    </navPoint>
+    <navPoint id="uahKMpm22C9tvaADLKpufeC" playOrder="58">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="index_split_042.xhtml"/>
+    </navPoint>
+    <navPoint id="u8HAElxZFZCgR8lZmGowBFF" playOrder="59">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="index_split_043.xhtml"/>
+    </navPoint>
+    <navPoint id="uLCFa8qxMtgOLK5ihtDxDjG" playOrder="60">
+      <navLabel>
+        <text>23</text>
+      </navLabel>
+      <content src="index_split_044.xhtml"/>
+    </navPoint>
+    <navPoint id="usXcxCLka4mqV2cwH69IRTD" playOrder="61">
+      <navLabel>
+        <text>24</text>
+      </navLabel>
+      <content src="index_split_045.xhtml"/>
+    </navPoint>
+    <navPoint id="uMesf9olileJv6cNMyaqVbG" playOrder="62">
+      <navLabel>
+        <text>25</text>
+      </navLabel>
+      <content src="index_split_046.xhtml"/>
+    </navPoint>
+    <navPoint id="uvewyXf3iDVEzJm4gW4P8h8" playOrder="63">
+      <navLabel>
+        <text>26</text>
+      </navLabel>
+      <content src="index_split_047.xhtml"/>
+    </navPoint>
+    <navPoint id="uxa3qh42bNHkpVQXQA2fqNA" playOrder="64">
+      <navLabel>
+        <text>27</text>
+      </navLabel>
+      <content src="index_split_048.xhtml"/>
+    </navPoint>
+    <navPoint id="u4F96JP7oCSwVn3gAFXMY97" playOrder="65">
+      <navLabel>
+        <text>28</text>
+      </navLabel>
+      <content src="index_split_049.xhtml"/>
+    </navPoint>
+    <navPoint id="u5OYPJCsO2y9zZ3ECu87rLA" playOrder="66">
+      <navLabel>
+        <text>29</text>
+      </navLabel>
+      <content src="index_split_050.xhtml"/>
+    </navPoint>
+    <navPoint id="uuAQFaBHhiOxCTOgMzjEyu8" playOrder="67">
+      <navLabel>
+        <text>30</text>
+      </navLabel>
+      <content src="index_split_051.xhtml"/>
+    </navPoint>
+    <navPoint id="ucRS6eHmfUUQEYhRTJdjMu5" playOrder="68">
+      <navLabel>
+        <text>31</text>
+      </navLabel>
+      <content src="index_split_052.xhtml"/>
+    </navPoint>
+    <navPoint id="uUUQldOTrk2DkthbthBFOP6" playOrder="69">
+      <navLabel>
+        <text>32</text>
+      </navLabel>
+      <content src="index_split_053.xhtml"/>
+    </navPoint>
+    <navPoint id="uSiLW7a3nd4G7NjYuuzwNOD" playOrder="70">
+      <navLabel>
+        <text>33</text>
+      </navLabel>
+      <content src="index_split_054.xhtml"/>
+    </navPoint>
+    <navPoint id="uCzjZ2q6mPOQoHIC3X5YIg6" playOrder="71">
+      <navLabel>
+        <text>34</text>
+      </navLabel>
+      <content src="index_split_055.xhtml"/>
+    </navPoint>
+    <navPoint id="uRBHMfwtO5MNmYfKU6pYVC5" playOrder="72">
+      <navLabel>
+        <text>35</text>
+      </navLabel>
+      <content src="index_split_056.xhtml"/>
+    </navPoint>
+    <navPoint id="u6QQUdOkiKGLHpARNziaO87" playOrder="73">
+      <navLabel>
+        <text>36</text>
+      </navLabel>
+      <content src="index_split_057.xhtml"/>
+    </navPoint>
+    <navPoint id="uaAj4D9pLrIEMuPx5K8A7HB" playOrder="74">
+      <navLabel>
+        <text>37</text>
+      </navLabel>
+      <content src="index_split_058.xhtml"/>
+    </navPoint>
+    <navPoint id="uDzxSRTGdG647A7yz8mcbLE" playOrder="75">
+      <navLabel>
+        <text>38</text>
+      </navLabel>
+      <content src="index_split_059.xhtml"/>
+    </navPoint>
+    <navPoint id="uuy5OvBJl8dPupYbl2c7unF" playOrder="76">
+      <navLabel>
+        <text>39</text>
+      </navLabel>
+      <content src="index_split_060.xhtml"/>
+    </navPoint>
+    <navPoint id="u7vwYpUxt59bvp5xnNngmC6" playOrder="77">
+      <navLabel>
+        <text>40</text>
+      </navLabel>
+      <content src="index_split_061.xhtml"/>
+    </navPoint>
+    <navPoint id="uViCOIndTBOinlHO9szm4nE" playOrder="78">
+      <navLabel>
+        <text>41</text>
+      </navLabel>
+      <content src="index_split_062.xhtml"/>
+    </navPoint>
+    <navPoint id="uTcimFK9OmGpObQMTQM2WD6" playOrder="79">
+      <navLabel>
+        <text>42</text>
+      </navLabel>
+      <content src="index_split_063.xhtml"/>
+    </navPoint>
+    <navPoint id="uUMoMr75u22GdfgXNRnPx86" playOrder="80">
+      <navLabel>
+        <text>43</text>
+      </navLabel>
+      <content src="index_split_064.xhtml"/>
+    </navPoint>
+    <navPoint id="u7ksA753feGbfuIVCaGDqlB" playOrder="81">
+      <navLabel>
+        <text>44</text>
+      </navLabel>
+      <content src="index_split_065.xhtml"/>
+    </navPoint>
+    <navPoint id="ubh4XZpobMbJPPwNachPeMF" playOrder="82">
+      <navLabel>
+        <text>45</text>
+      </navLabel>
+      <content src="index_split_066.xhtml"/>
+    </navPoint>
+    <navPoint id="uXHYnDLvfGcHGcAHaIXcDtD" playOrder="83">
+      <navLabel>
+        <text>46</text>
+      </navLabel>
+      <content src="index_split_067.xhtml"/>
+    </navPoint>
+    <navPoint id="uiAtWpLj6KNrixOouYLUkeD" playOrder="84">
+      <navLabel>
+        <text>47</text>
+      </navLabel>
+      <content src="index_split_068.xhtml"/>
+    </navPoint>
+    <navPoint id="uWCmMXVEPNeyWqYHwa4up32" playOrder="85">
+      <navLabel>
+        <text>48</text>
+      </navLabel>
+      <content src="index_split_069.xhtml"/>
+    </navPoint>
+    <navPoint id="u6IzVYnBoXumBYvt99vQwv7" playOrder="86">
+      <navLabel>
+        <text>49</text>
+      </navLabel>
+      <content src="index_split_070.xhtml"/>
+    </navPoint>
+    <navPoint id="uNtkjW25ofJ6C3gEia9uIUF" playOrder="87">
+      <navLabel>
+        <text>50</text>
+      </navLabel>
+      <content src="index_split_071.xhtml"/>
+    </navPoint>
+    <navPoint id="u68SvjNEfYBw7E4JsUG8Jk7" playOrder="88">
+      <navLabel>
+        <text>51</text>
+      </navLabel>
+      <content src="index_split_072.xhtml"/>
+    </navPoint>
+    <navPoint id="udNmTVhKJuSdn6mGsNoZqz3" playOrder="89">
+      <navLabel>
+        <text>52</text>
+      </navLabel>
+      <content src="index_split_073.xhtml"/>
+    </navPoint>
+    <navPoint id="um2jaoH2QulQ7yrIUNksWiF" playOrder="90">
+      <navLabel>
+        <text>53</text>
+      </navLabel>
+      <content src="index_split_074.xhtml"/>
+    </navPoint>
+    <navPoint id="up3Ze7mlcxJWuQWpmsjmkt4" playOrder="91">
+      <navLabel>
+        <text>54</text>
+      </navLabel>
+      <content src="index_split_075.xhtml"/>
+    </navPoint>
+    <navPoint id="uE23ivbD4MblIq6Edo46BdC" playOrder="92">
+      <navLabel>
+        <text>55</text>
+      </navLabel>
+      <content src="index_split_076.xhtml"/>
+    </navPoint>
+    <navPoint id="uP7SW2CEoi5u5XEiE9pXhM6" playOrder="93">
+      <navLabel>
+        <text>56</text>
+      </navLabel>
+      <content src="index_split_077.xhtml"/>
+    </navPoint>
+    <navPoint id="u8Fn6DgcCqtGzeYndO9Hi45" playOrder="94">
+      <navLabel>
+        <text>57</text>
+      </navLabel>
+      <content src="index_split_078.xhtml"/>
+    </navPoint>
+    <navPoint id="uA2ri9NDikVutD6nXJmGlp8" playOrder="95">
+      <navLabel>
+        <text>58</text>
+      </navLabel>
+      <content src="index_split_079.xhtml"/>
+    </navPoint>
+    <navPoint id="uTqkjaI6YjwEcpnhy7bjHDB" playOrder="96">
+      <navLabel>
+        <text>59</text>
+      </navLabel>
+      <content src="index_split_080.xhtml"/>
+    </navPoint>
+    <navPoint id="uj364SuKTA94CmMZS7U4mz3" playOrder="97">
+      <navLabel>
+        <text>60</text>
+      </navLabel>
+      <content src="index_split_081.xhtml"/>
+    </navPoint>
+    <navPoint id="uoj72DyQazJTkhlCqbGssf6" playOrder="98">
+      <navLabel>
+        <text>61</text>
+      </navLabel>
+      <content src="index_split_082.xhtml"/>
+    </navPoint>
+    <navPoint id="u2P468osWLVrCSchuCrEkCA" playOrder="99">
+      <navLabel>
+        <text>62</text>
+      </navLabel>
+      <content src="index_split_083.xhtml"/>
+    </navPoint>
+    <navPoint id="uSB3Prbza47t4DkVn5NvOXF" playOrder="100">
+      <navLabel>
+        <text>63</text>
+      </navLabel>
+      <content src="index_split_084.xhtml"/>
+    </navPoint>
+    <navPoint id="urozHlkvqk4baGhlRI5p4I5" playOrder="101">
+      <navLabel>
+        <text>64</text>
+      </navLabel>
+      <content src="index_split_085.xhtml"/>
+    </navPoint>
+    <navPoint id="uejayfau2rTNgrL2RcCQSGD" playOrder="102">
+      <navLabel>
+        <text>65</text>
+      </navLabel>
+      <content src="index_split_086.xhtml"/>
+    </navPoint>
+    <navPoint id="uQJPRSxZ65SWCsZRF28uH7B" playOrder="103">
+      <navLabel>
+        <text>66</text>
+      </navLabel>
+      <content src="index_split_087.xhtml"/>
+    </navPoint>
+    <navPoint id="uKrOwxgxonXeFtUdvtC7vZG" playOrder="104">
+      <navLabel>
+        <text>67</text>
+      </navLabel>
+      <content src="index_split_088.xhtml"/>
+    </navPoint>
+    <navPoint id="uRwAIcYpuorVOojYoWH8xu4" playOrder="105">
+      <navLabel>
+        <text>68</text>
+      </navLabel>
+      <content src="index_split_089.xhtml"/>
+    </navPoint>
+    <navPoint id="uncOoVQIX4FOD8mx32Ijl5B" playOrder="106">
+      <navLabel>
+        <text>69</text>
+      </navLabel>
+      <content src="index_split_090.xhtml"/>
+    </navPoint>
+    <navPoint id="uk7cxIXUdIq7NcwvBeD6h79" playOrder="107">
+      <navLabel>
+        <text>70</text>
+      </navLabel>
+      <content src="index_split_091.xhtml"/>
+    </navPoint>
+    <navPoint id="uHooCKqZfiTyWUqnqe2La7E" playOrder="108">
+      <navLabel>
+        <text>71</text>
+      </navLabel>
+      <content src="index_split_092.xhtml"/>
+    </navPoint>
+    <navPoint id="upnBjSFSWMtQz4QqRcfx596" playOrder="109">
+      <navLabel>
+        <text>72</text>
+      </navLabel>
+      <content src="index_split_093.xhtml"/>
+    </navPoint>
+    <navPoint id="uUqyw73NEzQCxWbticMhMg7" playOrder="110">
+      <navLabel>
+        <text>73</text>
+      </navLabel>
+      <content src="index_split_094.xhtml"/>
+    </navPoint>
+    <navPoint id="u5eOaqzAXvVVxyvpiuOLDO7" playOrder="111">
+      <navLabel>
+        <text>74</text>
+      </navLabel>
+      <content src="index_split_095.xhtml"/>
+    </navPoint>
+    <navPoint id="uoDzVbY6VUkzEC6k6dKymp9" playOrder="112">
+      <navLabel>
+        <text>75</text>
+      </navLabel>
+      <content src="index_split_096.xhtml"/>
+    </navPoint>
+    <navPoint id="uYpmbkwA9NOVBxqXx28Oy42" playOrder="113">
+      <navLabel>
+        <text>76</text>
+      </navLabel>
+      <content src="index_split_097.xhtml"/>
+    </navPoint>
+    <navPoint id="uEqfnRScsYSXRPNbGBYFpdF" playOrder="114">
+      <navLabel>
+        <text>77</text>
+      </navLabel>
+      <content src="index_split_098.xhtml"/>
+    </navPoint>
+    <navPoint id="uoJ2TQdzYqAFmCi4eBVqew5" playOrder="115">
+      <navLabel>
+        <text>78</text>
+      </navLabel>
+      <content src="index_split_099.xhtml"/>
+    </navPoint>
+    <navPoint id="ue9B2I2yQUkFcSVMELbsisE" playOrder="116">
+      <navLabel>
+        <text>79</text>
+      </navLabel>
+      <content src="index_split_100.xhtml"/>
+    </navPoint>
+    <navPoint id="uBicbplRHqSHJjuGi76ekMB" playOrder="117">
+      <navLabel>
+        <text>80</text>
+      </navLabel>
+      <content src="index_split_101.xhtml"/>
+    </navPoint>
+    <navPoint id="uPXdB7mLpo7zF26UmdsJZV4" playOrder="118">
+      <navLabel>
+        <text>81</text>
+      </navLabel>
+      <content src="index_split_102.xhtml"/>
+    </navPoint>
+    <navPoint id="uBUROAKD7vELwScvv3rLoVG" playOrder="119">
+      <navLabel>
+        <text>82</text>
+      </navLabel>
+      <content src="index_split_103.xhtml"/>
+    </navPoint>
+    <navPoint id="uzFQM7xJunRaxCKVEnPShIA" playOrder="120">
+      <navLabel>
+        <text>83</text>
+      </navLabel>
+      <content src="index_split_104.xhtml"/>
+    </navPoint>
+    <navPoint id="uNyKOw4cLvZ9XKFJDGkQwG9" playOrder="121">
+      <navLabel>
+        <text>84</text>
+      </navLabel>
+      <content src="index_split_105.xhtml"/>
+    </navPoint>
+    <navPoint id="uqOB6rx2jiQOUBCTxWVwUn6" playOrder="122">
+      <navLabel>
+        <text>85</text>
+      </navLabel>
+      <content src="index_split_106.xhtml"/>
+    </navPoint>
+    <navPoint id="uuBbyTymMOgw6gE6bYKkiv3" playOrder="123">
+      <navLabel>
+        <text>86</text>
+      </navLabel>
+      <content src="index_split_107.xhtml"/>
+    </navPoint>
+    <navPoint id="uRrF9WER3qNvxH7oVTcZ5l7" playOrder="124">
+      <navLabel>
+        <text>87</text>
+      </navLabel>
+      <content src="index_split_108.xhtml"/>
+    </navPoint>
+    <navPoint id="uvmqVSHXcgbvxLClngHfuXC" playOrder="125">
+      <navLabel>
+        <text>88</text>
+      </navLabel>
+      <content src="index_split_109.xhtml"/>
+    </navPoint>
+    <navPoint id="uqEpQgTqlgjgRMsatPUBVbB" playOrder="126">
+      <navLabel>
+        <text>89</text>
+      </navLabel>
+      <content src="index_split_110.xhtml"/>
+    </navPoint>
+    <navPoint id="u9Slu2rTnMcREAOkpWizU8F" playOrder="127">
+      <navLabel>
+        <text>90</text>
+      </navLabel>
+      <content src="index_split_111.xhtml"/>
+    </navPoint>
+    <navPoint id="uCJO5NiccSRGgRStsAfO8t8" playOrder="128">
+      <navLabel>
+        <text>91</text>
+      </navLabel>
+      <content src="index_split_112.xhtml"/>
+    </navPoint>
+    <navPoint id="uuCkq9jusvURDQk9BuF8drB" playOrder="129">
+      <navLabel>
+        <text>92</text>
+      </navLabel>
+      <content src="index_split_113.xhtml"/>
+    </navPoint>
+    <navPoint id="uESiTQPgZxBB5fqZmmCmIIA" playOrder="130">
+      <navLabel>
+        <text>93</text>
+      </navLabel>
+      <content src="index_split_114.xhtml"/>
+    </navPoint>
+    <navPoint id="uOLyLyMkWdTIrejCZDEc4mC" playOrder="131">
+      <navLabel>
+        <text>94</text>
+      </navLabel>
+      <content src="index_split_115.xhtml"/>
+    </navPoint>
+    <navPoint id="uLRNwxMZcFVggvihAZruPn2" playOrder="132">
+      <navLabel>
+        <text>95</text>
+      </navLabel>
+      <content src="index_split_116.xhtml"/>
+    </navPoint>
+    <navPoint id="uv9Bn9Wb8IzPjGXaTBhVkcC" playOrder="133">
+      <navLabel>
+        <text>96</text>
+      </navLabel>
+      <content src="index_split_117.xhtml"/>
+    </navPoint>
+    <navPoint id="ueboC4V8qs32NuVSVvsVVx7" playOrder="134">
+      <navLabel>
+        <text>97</text>
+      </navLabel>
+      <content src="index_split_118.xhtml"/>
+    </navPoint>
+    <navPoint id="uu38D3zHOaVSJTjnt9BAnXE" playOrder="135">
+      <navLabel>
+        <text>98</text>
+      </navLabel>
+      <content src="index_split_119.xhtml"/>
+    </navPoint>
+    <navPoint id="uE54tShqk3iTxJqwdO7EEe6" playOrder="136">
+      <navLabel>
+        <text>99</text>
+      </navLabel>
+      <content src="index_split_120.xhtml"/>
+    </navPoint>
+    <navPoint id="uWgvDXwR5mSBl7okLIYMhVA" playOrder="137">
+      <navLabel>
+        <text>100</text>
+      </navLabel>
+      <content src="index_split_121.xhtml"/>
+    </navPoint>
+    <navPoint id="ugJ9awISzEpM2Eae9ykqjMC" playOrder="138">
+      <navLabel>
+        <text>101</text>
+      </navLabel>
+      <content src="index_split_122.xhtml"/>
+    </navPoint>
+    <navPoint id="uw8MXwNjtPgLPbl5iyBY3J4" playOrder="139">
+      <navLabel>
+        <text>102</text>
+      </navLabel>
+      <content src="index_split_123.xhtml"/>
+    </navPoint>
+    <navPoint id="ucd2hFogSUdmfc4DmXUYfFE" playOrder="140">
+      <navLabel>
+        <text>103</text>
+      </navLabel>
+      <content src="index_split_124.xhtml"/>
+    </navPoint>
+    <navPoint id="urlfYw44hrNttjhbi4x7y9A" playOrder="141">
+      <navLabel>
+        <text>104</text>
+      </navLabel>
+      <content src="index_split_125.xhtml"/>
+    </navPoint>
+    <navPoint id="uslIB2rCZS4zSLo79AimRCG" playOrder="142">
+      <navLabel>
+        <text>105</text>
+      </navLabel>
+      <content src="index_split_126.xhtml"/>
+    </navPoint>
+    <navPoint id="uJRS5zAN8iQYVNbwbRVl5a8" playOrder="143">
+      <navLabel>
+        <text>106</text>
+      </navLabel>
+      <content src="index_split_127.xhtml"/>
+    </navPoint>
+    <navPoint id="u35huQ2jvyYnMGCvHRwm59G" playOrder="144">
+      <navLabel>
+        <text>107</text>
+      </navLabel>
+      <content src="index_split_128.xhtml"/>
+    </navPoint>
+    <navPoint id="uSDyolizJwf4ph5z4n8JnwB" playOrder="145">
+      <navLabel>
+        <text>108</text>
+      </navLabel>
+      <content src="index_split_129.xhtml"/>
+    </navPoint>
+    <navPoint id="uT7rq8EreoVJwwglMZmhhgC" playOrder="146">
+      <navLabel>
+        <text>109</text>
+      </navLabel>
+      <content src="index_split_130.xhtml"/>
+    </navPoint>
+    <navPoint id="uGQ4qFyFvcMqPIkVtKAfNa2" playOrder="147">
+      <navLabel>
+        <text>110</text>
+      </navLabel>
+      <content src="index_split_131.xhtml"/>
+    </navPoint>
+    <navPoint id="uZt9YxCNOOhhHBsVIiUQYR9" playOrder="148">
+      <navLabel>
+        <text>111</text>
+      </navLabel>
+      <content src="index_split_132.xhtml"/>
+    </navPoint>
+    <navPoint id="uG84BKwuwPSlJGJgmlortxE" playOrder="149">
+      <navLabel>
+        <text>112</text>
+      </navLabel>
+      <content src="index_split_133.xhtml"/>
+    </navPoint>
+    <navPoint id="uxion6I3H8umFCe2o5umk82" playOrder="150">
+      <navLabel>
+        <text>113</text>
+      </navLabel>
+      <content src="index_split_134.xhtml"/>
+    </navPoint>
+    <navPoint id="upvNtYMogmVezsbhHWFoYgE" playOrder="151">
+      <navLabel>
+        <text>114</text>
+      </navLabel>
+      <content src="index_split_135.xhtml"/>
+    </navPoint>
+    <navPoint id="uHlgR4kvAz4gHvIL4VwLk32" playOrder="152">
+      <navLabel>
+        <text>115</text>
+      </navLabel>
+      <content src="index_split_136.xhtml"/>
+    </navPoint>
+    <navPoint id="uzWNsOUYYkdUNQsPbNbmKs4" playOrder="153">
+      <navLabel>
+        <text>116</text>
+      </navLabel>
+      <content src="index_split_137.xhtml"/>
+    </navPoint>
+    <navPoint id="u347MalPVgUvQ8hTz4rgi38" playOrder="154">
+      <navLabel>
+        <text>117</text>
+      </navLabel>
+      <content src="index_split_138.xhtml"/>
+    </navPoint>
+    <navPoint id="uJS29iYRrwmPUtDCVoxHB53" playOrder="155">
+      <navLabel>
+        <text>118</text>
+      </navLabel>
+      <content src="index_split_139.xhtml"/>
+    </navPoint>
+    <navPoint id="u5JpR4GhJ7cBBmxev7EsooD" playOrder="156">
+      <navLabel>
+        <text>119</text>
+      </navLabel>
+      <content src="index_split_140.xhtml"/>
+    </navPoint>
+    <navPoint id="u54GivRe6AWeh6EwaP9fNrE" playOrder="157">
+      <navLabel>
+        <text>120</text>
+      </navLabel>
+      <content src="index_split_141.xhtml"/>
+    </navPoint>
+    <navPoint id="uDBpcsnxwNyuPeSNqEFc9W8" playOrder="158">
+      <navLabel>
+        <text>121</text>
+      </navLabel>
+      <content src="index_split_142.xhtml"/>
+    </navPoint>
+    <navPoint id="ubzQkr5QZ5shgZ6SVdu6AMH" playOrder="159">
+      <navLabel>
+        <text>122</text>
+      </navLabel>
+      <content src="index_split_143.xhtml"/>
+    </navPoint>
+    <navPoint id="uCXumWtaLzMaY8pwUdWow8D" playOrder="160">
+      <navLabel>
+        <text>123</text>
+      </navLabel>
+      <content src="index_split_144.xhtml"/>
+    </navPoint>
+    <navPoint id="uRF4vGpUZNUXPxaARbz6wGE" playOrder="161">
+      <navLabel>
+        <text>124</text>
+      </navLabel>
+      <content src="index_split_145.xhtml"/>
+    </navPoint>
+    <navPoint id="u5YvICrvTzRBsbard4Zht28" playOrder="162">
+      <navLabel>
+        <text>125</text>
+      </navLabel>
+      <content src="index_split_146.xhtml"/>
+    </navPoint>
+    <navPoint id="uaW7EUtJ6yQ98NJxAPfG9mA" playOrder="163">
+      <navLabel>
+        <text>126</text>
+      </navLabel>
+      <content src="index_split_147.xhtml"/>
+    </navPoint>
+    <navPoint id="uci5mwFtxBuOK6tKZYChdzB" playOrder="164">
+      <navLabel>
+        <text>127</text>
+      </navLabel>
+      <content src="index_split_148.xhtml"/>
+    </navPoint>
+    <navPoint id="uhIvH2ggjkyoxTj7n5wcQ6B" playOrder="165">
+      <navLabel>
+        <text>128</text>
+      </navLabel>
+      <content src="index_split_149.xhtml"/>
+    </navPoint>
+    <navPoint id="uJCGbRQnXk52tPfIdarwwx2" playOrder="166">
+      <navLabel>
+        <text>129</text>
+      </navLabel>
+      <content src="index_split_150.xhtml"/>
+    </navPoint>
+    <navPoint id="uwG8njyKQEOZWW3bniBGooC" playOrder="167">
+      <navLabel>
+        <text>130</text>
+      </navLabel>
+      <content src="index_split_151.xhtml"/>
+    </navPoint>
+    <navPoint id="ukEFe93UTLbexlRdAtMGMcF" playOrder="168">
+      <navLabel>
+        <text>131</text>
+      </navLabel>
+      <content src="index_split_152.xhtml"/>
+    </navPoint>
+    <navPoint id="uIeTQuthvbp7kv9BkGPjLwE" playOrder="169">
+      <navLabel>
+        <text>132</text>
+      </navLabel>
+      <content src="index_split_153.xhtml"/>
+    </navPoint>
+    <navPoint id="uumkN8K4qOkMkxh4ENsK46C" playOrder="170">
+      <navLabel>
+        <text>133</text>
+      </navLabel>
+      <content src="index_split_154.xhtml"/>
+    </navPoint>
+    <navPoint id="uBdu7XLtaNwNdoACwSwaftE" playOrder="171">
+      <navLabel>
+        <text>134</text>
+      </navLabel>
+      <content src="index_split_155.xhtml"/>
+    </navPoint>
+    <navPoint id="uLgAXvYW48RVEVtGBF5zGa5" playOrder="172">
+      <navLabel>
+        <text>135</text>
+      </navLabel>
+      <content src="index_split_156.xhtml"/>
+    </navPoint>
+    <navPoint id="uaUTyHj4BQPFhSDeuzM4hn6" playOrder="173">
+      <navLabel>
+        <text>136</text>
+      </navLabel>
+      <content src="index_split_157.xhtml"/>
+    </navPoint>
+    <navPoint id="umj78Fgn4eRKQUEPhpyes86" playOrder="174">
+      <navLabel>
+        <text>137</text>
+      </navLabel>
+      <content src="index_split_158.xhtml"/>
+    </navPoint>
+    <navPoint id="uvroMssKDquRoxO6MCtXlU2" playOrder="175">
+      <navLabel>
+        <text>138</text>
+      </navLabel>
+      <content src="index_split_159.xhtml"/>
+    </navPoint>
+    <navPoint id="uKhMsWF2lK3OTJfZO7wC7R7" playOrder="176">
+      <navLabel>
+        <text>139</text>
+      </navLabel>
+      <content src="index_split_160.xhtml"/>
+    </navPoint>
+    <navPoint id="ubWg4TYiYZRKNxAiXlP9tmE" playOrder="177">
+      <navLabel>
+        <text>140</text>
+      </navLabel>
+      <content src="index_split_161.xhtml"/>
+    </navPoint>
+    <navPoint id="uFlxTGhxydkw4Lf8OzPxJo6" playOrder="178">
+      <navLabel>
+        <text>141</text>
+      </navLabel>
+      <content src="index_split_162.xhtml"/>
+    </navPoint>
+    <navPoint id="umvDMj9r7nupM4Qxw8nWy56" playOrder="179">
+      <navLabel>
+        <text>142</text>
+      </navLabel>
+      <content src="index_split_163.xhtml"/>
+    </navPoint>
+    <navPoint id="umnTCBcaAfxZRfxDQOySu39" playOrder="180">
+      <navLabel>
+        <text>143</text>
+      </navLabel>
+      <content src="index_split_164.xhtml"/>
+    </navPoint>
+    <navPoint id="uyc3VWVXISlXDGAVlPnRNdG" playOrder="181">
+      <navLabel>
+        <text>144</text>
+      </navLabel>
+      <content src="index_split_165.xhtml"/>
+    </navPoint>
+    <navPoint id="uFv26OhVOoyGFDRyYStRPj9" playOrder="182">
+      <navLabel>
+        <text>145</text>
+      </navLabel>
+      <content src="index_split_166.xhtml"/>
+    </navPoint>
+    <navPoint id="ucFXTOXInTtFpS7wvvCEpeD" playOrder="183">
+      <navLabel>
+        <text>146</text>
+      </navLabel>
+      <content src="index_split_167.xhtml"/>
+    </navPoint>
+    <navPoint id="uZ5emWqQbnCFEDlxY23OJF9" playOrder="184">
+      <navLabel>
+        <text>147</text>
+      </navLabel>
+      <content src="index_split_168.xhtml"/>
+    </navPoint>
+    <navPoint id="uC5RjIl9mAF4Fz7mAedAmW7" playOrder="185">
+      <navLabel>
+        <text>148</text>
+      </navLabel>
+      <content src="index_split_169.xhtml"/>
+    </navPoint>
+    <navPoint id="unFDkh9qmhbQaTmVV8VbEW5" playOrder="186">
+      <navLabel>
+        <text>149</text>
+      </navLabel>
+      <content src="index_split_170.xhtml"/>
+    </navPoint>
+    <navPoint id="uIx3wbjpI7yoj5IYfbe7pV7" playOrder="187">
+      <navLabel>
+        <text>150</text>
+      </navLabel>
+      <content src="index_split_171.xhtml"/>
+    </navPoint>
+    <navPoint id="um9wH7zDGAPEVrOl6JKDEh9" playOrder="188">
+      <navLabel>
+        <text>151</text>
+      </navLabel>
+      <content src="index_split_172.xhtml"/>
+    </navPoint>
+    <navPoint id="uKfYDv7MPpRgf5lc7B3N7Q8" playOrder="189">
+      <navLabel>
+        <text>152</text>
+      </navLabel>
+      <content src="index_split_173.xhtml"/>
+    </navPoint>
+    <navPoint id="ujknq3NNU9mNwJlsOg2NPd4" playOrder="190">
+      <navLabel>
+        <text>153</text>
+      </navLabel>
+      <content src="index_split_174.xhtml"/>
+    </navPoint>
+    <navPoint id="ur7wcskyq6jGPLgFK2owNiG" playOrder="191">
+      <navLabel>
+        <text>154</text>
+      </navLabel>
+      <content src="index_split_175.xhtml"/>
+    </navPoint>
+    <navPoint id="uD7Xan5XF6T4KMKE7YS4Vk7" playOrder="192">
+      <navLabel>
+        <text>155</text>
+      </navLabel>
+      <content src="index_split_176.xhtml"/>
+    </navPoint>
+    <navPoint id="uKUvtkzhftT9jdD6dbwjr22" playOrder="193">
+      <navLabel>
+        <text>156</text>
+      </navLabel>
+      <content src="index_split_177.xhtml"/>
+    </navPoint>
+    <navPoint id="ux5xlybVJBP4HTJkcFELyH9" playOrder="194">
+      <navLabel>
+        <text>157</text>
+      </navLabel>
+      <content src="index_split_178.xhtml"/>
+    </navPoint>
+    <navPoint id="uB78jV62pEvdodyPKWSorxC" playOrder="195">
+      <navLabel>
+        <text>158</text>
+      </navLabel>
+      <content src="index_split_179.xhtml"/>
+    </navPoint>
+    <navPoint id="uy4VGOfZfDJHsA2J7NcQ74D" playOrder="196">
+      <navLabel>
+        <text>159</text>
+      </navLabel>
+      <content src="index_split_180.xhtml"/>
+    </navPoint>
+    <navPoint id="uCmyG7X76tmWY6dIqzWzHIH" playOrder="197">
+      <navLabel>
+        <text>160</text>
+      </navLabel>
+      <content src="index_split_181.xhtml"/>
+    </navPoint>
+    <navPoint id="u3EBbKpd8xruv6H8TJtvPy4" playOrder="198">
+      <navLabel>
+        <text>161</text>
+      </navLabel>
+      <content src="index_split_182.xhtml"/>
+    </navPoint>
+    <navPoint id="uPGsQqavSSsXXhjBEj6RaD3" playOrder="199">
+      <navLabel>
+        <text>162</text>
+      </navLabel>
+      <content src="index_split_183.xhtml"/>
+    </navPoint>
+    <navPoint id="unpvCOPCthpcaNmlu9nLV76" playOrder="200">
+      <navLabel>
+        <text>163</text>
+      </navLabel>
+      <content src="index_split_184.xhtml"/>
+    </navPoint>
+    <navPoint id="u8HvrxxZZEPftwjSbuW5WE3" playOrder="201">
+      <navLabel>
+        <text>164</text>
+      </navLabel>
+      <content src="index_split_185.xhtml"/>
+    </navPoint>
+    <navPoint id="ukGwlDT33VYdpXF2fUwzCC4" playOrder="202">
+      <navLabel>
+        <text>165</text>
+      </navLabel>
+      <content src="index_split_186.xhtml"/>
+    </navPoint>
+    <navPoint id="uZknm9PfjAFRCeT8SLC9wT5" playOrder="203">
+      <navLabel>
+        <text>166</text>
+      </navLabel>
+      <content src="index_split_187.xhtml"/>
+    </navPoint>
+    <navPoint id="u89TJ6Ue2AmsmR9C9lmV279" playOrder="204">
+      <navLabel>
+        <text>167</text>
+      </navLabel>
+      <content src="index_split_188.xhtml"/>
+    </navPoint>
+    <navPoint id="uWIgni7EAiWKhifzD6XkW57" playOrder="205">
+      <navLabel>
+        <text>168</text>
+      </navLabel>
+      <content src="index_split_189.xhtml"/>
+    </navPoint>
+    <navPoint id="u4YWXYVa6ZKJHr5N4DWXY9C" playOrder="206">
+      <navLabel>
+        <text>169</text>
+      </navLabel>
+      <content src="index_split_190.xhtml"/>
+    </navPoint>
+    <navPoint id="uOgAKsKzqJ3xLqdZch9mM3F" playOrder="207">
+      <navLabel>
+        <text>170</text>
+      </navLabel>
+      <content src="index_split_191.xhtml"/>
+    </navPoint>
+    <navPoint id="uZFQnPAsk36JVw66UqFTzV6" playOrder="208">
+      <navLabel>
+        <text>171</text>
+      </navLabel>
+      <content src="index_split_192.xhtml"/>
+    </navPoint>
+    <navPoint id="uDmuIRgm9WyjudtpqgGe9X7" playOrder="209">
+      <navLabel>
+        <text>172</text>
+      </navLabel>
+      <content src="index_split_193.xhtml"/>
+    </navPoint>
+    <navPoint id="unHFJgXiSWWqR55ASuvPiTC" playOrder="210">
+      <navLabel>
+        <text>173</text>
+      </navLabel>
+      <content src="index_split_194.xhtml"/>
+    </navPoint>
+    <navPoint id="uYLtCaXX63AFqA8xcio3rA6" playOrder="211">
+      <navLabel>
+        <text>174</text>
+      </navLabel>
+      <content src="index_split_195.xhtml"/>
+    </navPoint>
+    <navPoint id="uMJMidP2EBOCgXvjCtqWLw6" playOrder="212">
+      <navLabel>
+        <text>175</text>
+      </navLabel>
+      <content src="index_split_196.xhtml"/>
+    </navPoint>
+    <navPoint id="uTyLOeD5mTBoFCLXOPqrHz2" playOrder="213">
+      <navLabel>
+        <text>176</text>
+      </navLabel>
+      <content src="index_split_197.xhtml"/>
+    </navPoint>
+    <navPoint id="uuF7bKrRbHfqwbLqKoJUw8A" playOrder="214">
+      <navLabel>
+        <text>177</text>
+      </navLabel>
+      <content src="index_split_198.xhtml"/>
+    </navPoint>
+    <navPoint id="utec45C8PkYntagfeDb9M44" playOrder="215">
+      <navLabel>
+        <text>178</text>
+      </navLabel>
+      <content src="index_split_199.xhtml"/>
+    </navPoint>
+    <navPoint id="ulKiDCfzFBsNNVVlZRmchyA" playOrder="216">
+      <navLabel>
+        <text>179</text>
+      </navLabel>
+      <content src="index_split_200.xhtml"/>
+    </navPoint>
+    <navPoint id="umZmsntyDT7uM7SbsMQJJz5" playOrder="217">
+      <navLabel>
+        <text>180</text>
+      </navLabel>
+      <content src="index_split_201.xhtml"/>
+    </navPoint>
+    <navPoint id="udFF7zsalMppFH9GVxcOFs9" playOrder="218">
+      <navLabel>
+        <text>181</text>
+      </navLabel>
+      <content src="index_split_202.xhtml"/>
+    </navPoint>
+    <navPoint id="uhN7w3zhMtautGz9yfICHRC" playOrder="219">
+      <navLabel>
+        <text>182</text>
+      </navLabel>
+      <content src="index_split_203.xhtml"/>
+    </navPoint>
+    <navPoint id="uqvfAqGnR2QlQce6FuedNjA" playOrder="220">
+      <navLabel>
+        <text>183</text>
+      </navLabel>
+      <content src="index_split_204.xhtml"/>
+    </navPoint>
+    <navPoint id="ucSfkXSeUhqDcGlS92PBc2C" playOrder="221">
+      <navLabel>
+        <text>184</text>
+      </navLabel>
+      <content src="index_split_205.xhtml"/>
+    </navPoint>
+    <navPoint id="uWHq8ZdqTtTEAWbOPkuoiYA" playOrder="222">
+      <navLabel>
+        <text>185</text>
+      </navLabel>
+      <content src="index_split_206.xhtml"/>
+    </navPoint>
+    <navPoint id="uqrYm8XYml3Q3kGkLzvwkaD" playOrder="223">
+      <navLabel>
+        <text>186</text>
+      </navLabel>
+      <content src="index_split_207.xhtml"/>
+    </navPoint>
+    <navPoint id="uOgavhFUh7FPYvTujm6apJ4" playOrder="224">
+      <navLabel>
+        <text>187</text>
+      </navLabel>
+      <content src="index_split_208.xhtml"/>
+    </navPoint>
+    <navPoint id="uVwOWT9TdOU5eUNnEkKEku3" playOrder="225">
+      <navLabel>
+        <text>188</text>
+      </navLabel>
+      <content src="index_split_209.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

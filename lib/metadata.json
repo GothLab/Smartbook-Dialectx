@@ -1,21 +1,21 @@
 {
   "vaultName": "Dialectx",
-  "lastExport": 1710580668100,
+  "lastExport": 1712344672619,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
-  "useCustomHeadContent": false,
+  "useCustomHeadContent": true,
   "useCustomFavicon": false,
   "files": [
     "Г.В.Ф.Гегель - Наука Логики/0 Введение/00 Введение.md",
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/01 Бытие.md",
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/02 Наличное бытие.md",
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/03 Для-Себя-Бытие.md",
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/04 Количество.md",
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/05 Определенное количество.md",
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/06 Количественное отношение.md",
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/07 Специфическое Количество.md",
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/08 Реальная мера.md",
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/09 Становление сущности.md",
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/1.1 Бытие.md",
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/1.2 Наличное бытие.md",
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/1.3 Для-Себя-Бытие.md",
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/2.1 Количество.md",
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/2.2 Определенное количество.md",
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/2.3 Количественное отношение.md",
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/3.1 Специфическое Количество.md",
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/3.2 Реальная мера.md",
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/3.3 Становление сущности.md",
     "Г.В.Ф.Гегель - Наука Логики/2 Сущность/10 Видимость.md",
     "Г.В.Ф.Гегель - Наука Логики/2 Сущность/11 Определенные Сущности.md",
     "Г.В.Ф.Гегель - Наука Логики/2 Сущность/12 Основание.md",
@@ -160,12 +160,6 @@
     "Г.В.Ф.Гегель - Наука Логики/images/image124.png",
     "Г.В.Ф.Гегель - Наука Логики/images/image125.png",
     "Г.В.Ф.Гегель - Наука Логики/images/image126.png",
-    "Г.В.Ф.Гегель - Наука Логики/lib/scripts/webpage.js",
-    "Г.В.Ф.Гегель - Наука Логики/lib/styles/obsidian-styles.css",
-    "Г.В.Ф.Гегель - Наука Логики/lib/styles/plugin-styles.css",
-    "Г.В.Ф.Гегель - Наука Логики/lib/styles/snippets.css",
-    "Г.В.Ф.Гегель - Наука Логики/lib/styles/theme.css",
-    "Г.В.Ф.Гегель - Наука Логики/lib/40.md",
     "Дополнительные материалы/М.В.Попов - Введение в диалектику/00. О философии.md",
     "Дополнительные материалы/М.В.Попов - Введение в диалектику/01. Введение в науку логики.md",
     "Дополнительные материалы/М.В.Попов - Введение в диалектику/02. О выведении категорий в логике.md",
@@ -336,7 +330,6 @@
     "lib/media/image098.png",
     "lib/media/image099.png",
     "lib/media/image001.png",
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -353,20 +346,14 @@
     "lib/media/874d8b8e340f75575caa.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
     "lib/scripts/minisearch.js",
     "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
+    "lib/html/custom-head-content.html",
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css"
   ],
   "mainDependencies": [
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -383,53 +370,48 @@
     "lib/media/874d8b8e340f75575caa.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
     "lib/scripts/minisearch.js",
     "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
+    "lib/html/custom-head-content.html",
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
     "Г.В.Ф.Гегель - Наука Логики/0 Введение/00 Введение.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 289694,
       "exportedPath": "г.в.ф.гегель-наука-логики/0-введение/00-введение.html",
       "dependencies": []
     },
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/01 Бытие.md": {
-      "modifiedTime": 1710580668100,
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/1.1 Бытие.md": {
+      "modifiedTime": 1712344672619,
       "sourceSize": 135223,
-      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/01-бытие.html",
+      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/1.1-бытие.html",
       "dependencies": []
     },
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/02 Наличное бытие.md": {
-      "modifiedTime": 1710580668100,
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/1.2 Наличное бытие.md": {
+      "modifiedTime": 1712344672619,
       "sourceSize": 231143,
-      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/02-наличное-бытие.html",
+      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/1.2-наличное-бытие.html",
       "dependencies": []
     },
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/03 Для-Себя-Бытие.md": {
-      "modifiedTime": 1710580668100,
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/1.3 Для-Себя-Бытие.md": {
+      "modifiedTime": 1712344672619,
       "sourceSize": 130175,
-      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/03-для-себя-бытие.html",
+      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/1.3-для-себя-бытие.html",
       "dependencies": []
     },
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/04 Количество.md": {
-      "modifiedTime": 1710580668100,
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/2.1 Количество.md": {
+      "modifiedTime": 1712344672619,
       "sourceSize": 81383,
-      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/04-количество.html",
+      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/2.1-количество.html",
       "dependencies": []
     },
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/05 Определенное количество.md": {
-      "modifiedTime": 1710580668100,
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/2.2 Определенное количество.md": {
+      "modifiedTime": 1712344672619,
       "sourceSize": 546422,
-      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/05-определенное-количество.html",
+      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/2.2-определенное-количество.html",
       "dependencies": [
         "lib/media/image003.png",
         "lib/media/image003.png",
@@ -684,19 +666,19 @@
         "lib/media/image084.png"
       ]
     },
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/06 Количественное отношение.md": {
-      "modifiedTime": 1710580668100,
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/2.3 Количественное отношение.md": {
+      "modifiedTime": 1712344672619,
       "sourceSize": 60158,
-      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/06-количественное-отношение.html",
+      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/2.3-количественное-отношение.html",
       "dependencies": [
         "lib/media/image105.png",
         "lib/media/image106.png"
       ]
     },
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/07 Специфическое Количество.md": {
-      "modifiedTime": 1710580668100,
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/3.1 Специфическое Количество.md": {
+      "modifiedTime": 1712344672619,
       "sourceSize": 99759,
-      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/07-специфическое-количество.html",
+      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/3.1-специфическое-количество.html",
       "dependencies": [
         "lib/media/image085.png",
         "lib/media/image085.png",
@@ -714,26 +696,26 @@
         "lib/media/image084.png"
       ]
     },
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/08 Реальная мера.md": {
-      "modifiedTime": 1710580668100,
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/3.2 Реальная мера.md": {
+      "modifiedTime": 1712344672619,
       "sourceSize": 131020,
-      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/08-реальная-мера.html",
+      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/3.2-реальная-мера.html",
       "dependencies": []
     },
-    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/09 Становление сущности.md": {
-      "modifiedTime": 1710580668100,
+    "Г.В.Ф.Гегель - Наука Логики/1 Бытие/3.3 Становление сущности.md": {
+      "modifiedTime": 1712344672619,
       "sourceSize": 50886,
-      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/09-становление-сущности.html",
+      "exportedPath": "г.в.ф.гегель-наука-логики/1-бытие/3.3-становление-сущности.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/2 Сущность/10 Видимость.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 92659,
       "exportedPath": "г.в.ф.гегель-наука-логики/2-сущность/10-видимость.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/2 Сущность/11 Определенные Сущности.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 171346,
       "exportedPath": "г.в.ф.гегель-наука-логики/2-сущность/11-определенные-сущности.html",
       "dependencies": [
@@ -768,91 +750,91 @@
       ]
     },
     "Г.В.Ф.Гегель - Наука Логики/2 Сущность/12 Основание.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 169547,
       "exportedPath": "г.в.ф.гегель-наука-логики/2-сущность/12-основание.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/2 Сущность/13 Существование.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 90023,
       "exportedPath": "г.в.ф.гегель-наука-логики/2-сущность/13-существование.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/2 Сущность/14 Явление.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 62771,
       "exportedPath": "г.в.ф.гегель-наука-логики/2-сущность/14-явление.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/2 Сущность/15 Существенное Отношени.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 84111,
       "exportedPath": "г.в.ф.гегель-наука-логики/2-сущность/15-существенное-отношени.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/2 Сущность/16 Абсолютное.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 56403,
       "exportedPath": "г.в.ф.гегель-наука-логики/2-сущность/16-абсолютное.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/2 Сущность/17 Действительность.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 75151,
       "exportedPath": "г.в.ф.гегель-наука-логики/2-сущность/17-действительность.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/2 Сущность/18 Абсолютное Отношение.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 92889,
       "exportedPath": "г.в.ф.гегель-наука-логики/2-сущность/18-абсолютное-отношение.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/3 Понятие/19 Механизм.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 211337,
       "exportedPath": "г.в.ф.гегель-наука-логики/3-понятие/19-механизм.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/3 Понятие/20 Химизм.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 30486,
       "exportedPath": "г.в.ф.гегель-наука-логики/3-понятие/20-химизм.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/3 Понятие/21 Жизнь.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 67146,
       "exportedPath": "г.в.ф.гегель-наука-логики/3-понятие/21-жизнь.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/3 Понятие/22 Понятие.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 111853,
       "exportedPath": "г.в.ф.гегель-наука-логики/3-понятие/22-понятие.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/3 Понятие/23 Суждение.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 192578,
       "exportedPath": "г.в.ф.гегель-наука-логики/3-понятие/23-суждение.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/3 Понятие/24 Умозаключение.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 196052,
       "exportedPath": "г.в.ф.гегель-наука-логики/3-понятие/24-умозаключение.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/3 Понятие/25 Телеология.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 127874,
       "exportedPath": "г.в.ф.гегель-наука-логики/3-понятие/25-телеология.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/3 Понятие/26 Идея познания.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 234582,
       "exportedPath": "г.в.ф.гегель-наука-логики/3-понятие/26-идея-познания.html",
       "dependencies": [
@@ -863,976 +845,940 @@
       ]
     },
     "Г.В.Ф.Гегель - Наука Логики/3 Понятие/27 Абсолютная идея.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 98962,
       "exportedPath": "г.в.ф.гегель-наука-логики/3-понятие/27-абсолютная-идея.html",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image001.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 350,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image001.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image002.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 289,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image002.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image003.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 235,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image003.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image004.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 332,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image004.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image005.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 629,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image005.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image006.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 536,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image006.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image007.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 540,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image007.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image008.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 450,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image008.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image009.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 356,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image009.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image010.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1035,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image010.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image011.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1092,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image011.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image012.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 577,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image012.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image013.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 308,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image013.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image014.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 467,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image014.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image015.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 2507,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image015.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image016.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 317,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image016.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image017.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 667,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image017.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image018.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 414,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image018.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image019.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 407,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image019.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image020.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 488,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image020.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image021.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 281,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image021.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image022.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 466,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image022.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image023.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 336,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image023.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image024.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1018,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image024.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image025.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 802,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image025.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image026.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1013,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image026.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image027.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 294,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image027.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image028.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 216,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image028.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image029.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 280,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image029.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image030.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 580,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image030.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image031.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 627,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image031.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image032.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 403,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image032.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image033.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 513,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image033.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image034.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 467,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image034.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image035.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 302,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image035.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image036.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 584,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image036.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image037.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 835,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image037.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image038.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 638,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image038.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image039.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 390,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image039.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image040.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 689,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image040.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image041.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 409,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image041.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image042.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 645,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image042.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image043.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 571,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image043.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image044.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 519,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image044.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image045.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 440,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image045.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image046.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1372,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image046.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image047.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 683,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image047.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image048.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 560,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image048.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image049.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 463,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image049.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image050.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 712,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image050.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image051.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 450,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image051.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image052.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 481,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image052.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image053.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 314,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image053.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image054.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 501,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image054.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image055.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 474,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image055.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image056.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 393,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image056.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image057.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 521,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image057.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image058.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 340,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image058.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image059.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 444,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image059.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image060.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 775,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image060.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image061.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 537,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image061.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image062.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 809,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image062.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image063.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 662,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image063.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image064.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 642,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image064.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image065.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 281,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image065.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image066.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 434,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image066.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image067.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 466,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image067.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image068.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 709,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image068.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image069.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 563,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image069.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image070.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 510,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image070.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image071.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 612,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image071.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image072.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 368,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image072.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image073.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 497,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image073.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image074.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 526,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image074.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image075.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 469,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image075.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image076.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 850,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image076.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image077.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 438,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image077.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image078.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 401,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image078.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image079.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 784,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image079.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image080.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 452,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image080.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image081.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 355,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image081.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image082.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 345,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image082.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image083.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 383,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image083.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image084.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 478,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image084.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image085.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 259,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image085.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image086.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 580,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image086.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image087.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 501,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image087.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image088.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 451,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image088.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image089.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 599,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image089.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image090.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 457,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image090.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image091.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 562,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image091.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image092.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 566,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image092.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image093.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 416,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image093.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image094.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 416,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image094.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image095.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 268,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image095.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image096.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 298,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image096.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image097.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 355,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image097.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image098.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 380,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image098.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image099.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 565,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image099.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image100.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 3442,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image100.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image101.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 567,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image101.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image102.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 372,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image102.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image103.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 501,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image103.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image104.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 321,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image104.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image105.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 490,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image105.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image106.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 329,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image106.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image107.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 393,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image107.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image108.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 534,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image108.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image109.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 404,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image109.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image110.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 375,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image110.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image111.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 576,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image111.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image112.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1078,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image112.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image113.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1308,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image113.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image114.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 411,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image114.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image115.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 577,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image115.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image116.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 678,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image116.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image117.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 279,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image117.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image118.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 355,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image118.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image119.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 681,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image119.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image120.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 442,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image120.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image121.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 644,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image121.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image122.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 872,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image122.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image123.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 673,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image123.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image124.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 409,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image124.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image125.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 425,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image125.png",
       "dependencies": []
     },
     "Г.В.Ф.Гегель - Наука Логики/images/image126.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 360,
       "exportedPath": "г.в.ф.гегель-наука-логики/images/image126.png",
       "dependencies": []
     },
-    "Г.В.Ф.Гегель - Наука Логики/lib/scripts/webpage.js": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 25948,
-      "exportedPath": "г.в.ф.гегель-наука-логики/lib/scripts/webpage.js",
-      "dependencies": []
-    },
-    "Г.В.Ф.Гегель - Наука Логики/lib/styles/obsidian-styles.css": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 317803,
-      "exportedPath": "г.в.ф.гегель-наука-логики/lib/styles/obsidian-styles.css",
-      "dependencies": []
-    },
-    "Г.В.Ф.Гегель - Наука Логики/lib/styles/plugin-styles.css": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 14605,
-      "exportedPath": "г.в.ф.гегель-наука-логики/lib/styles/plugin-styles.css",
-      "dependencies": []
-    },
-    "Г.В.Ф.Гегель - Наука Логики/lib/styles/snippets.css": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 1,
-      "exportedPath": "г.в.ф.гегель-наука-логики/lib/styles/snippets.css",
-      "dependencies": []
-    },
-    "Г.В.Ф.Гегель - Наука Логики/lib/styles/theme.css": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 26,
-      "exportedPath": "г.в.ф.гегель-наука-логики/lib/styles/theme.css",
-      "dependencies": []
-    },
-    "Г.В.Ф.Гегель - Наука Логики/lib/40.md": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 63502,
-      "exportedPath": "г.в.ф.гегель-наука-логики/lib/40.html",
-      "dependencies": []
-    },
     "Дополнительные материалы/М.В.Попов - Введение в диалектику/00. О философии.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 148658,
       "exportedPath": "дополнительные-материалы/м.в.попов-введение-в-диалектику/00.-о-философии.html",
       "dependencies": []
     },
     "Дополнительные материалы/М.В.Попов - Введение в диалектику/01. Введение в науку логики.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 33906,
       "exportedPath": "дополнительные-материалы/м.в.попов-введение-в-диалектику/01.-введение-в-науку-логики.html",
       "dependencies": []
     },
     "Дополнительные материалы/М.В.Попов - Введение в диалектику/02. О выведении категорий в логике.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 131630,
       "exportedPath": "дополнительные-материалы/м.в.попов-введение-в-диалектику/02.-о-выведении-категорий-в-логике.html",
       "dependencies": []
     },
     "Дополнительные материалы/М.В.Попов - Введение в диалектику/03. О диалектике революционной России.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 343246,
       "exportedPath": "дополнительные-материалы/м.в.попов-введение-в-диалектику/03.-о-диалектике-революционной-россии.html",
       "dependencies": []
     },
     "Дополнительные материалы/М.В.Попов - Введение в диалектику/04. О науке логике как системе.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 186808,
       "exportedPath": "дополнительные-материалы/м.в.попов-введение-в-диалектику/04.-о-науке-логике-как-системе.html",
       "dependencies": []
     },
     "Дополнительные материалы/М.В.Попов - Введение в диалектику/05. Единство и борьба противоположностей в современной России.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 187699,
       "exportedPath": "дополнительные-материалы/м.в.попов-введение-в-диалектику/05.-единство-и-борьба-противоположностей-в-современной-россии.html",
       "dependencies": []
     },
     "Дополнительные материалы/М.В.Попов - Введение в диалектику/06. Ответы на вопросы по диалектике.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 335068,
       "exportedPath": "дополнительные-материалы/м.в.попов-введение-в-диалектику/06.-ответы-на-вопросы-по-диалектике.html",
       "dependencies": []
     },
     "Дополнительные материалы/М.В.Попов - Введение в диалектику/07. О друзьях и врагах диалектики.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 87814,
       "exportedPath": "дополнительные-материалы/м.в.попов-введение-в-диалектику/07.-о-друзьях-и-врагах-диалектики.html",
       "dependencies": []
     },
     "Дополнительные материалы/М.В.Попов - Введение в диалектику/08. О понятиях границы, предела и вещи для себя.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 77381,
       "exportedPath": "дополнительные-материалы/м.в.попов-введение-в-диалектику/08.-о-понятиях-границы,-предела-и-вещи-для-себя.html",
       "dependencies": []
     },
     "Дополнительные материалы/М.В.Попов - Введение в диалектику/09. О понятии истины.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 118936,
       "exportedPath": "дополнительные-материалы/м.в.попов-введение-в-диалектику/09.-о-понятии-истины.html",
       "dependencies": []
     },
     "Дополнительные материалы/М.В.Попов - Пособие по изучению Науки Логики/00 Введение.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 11970,
       "exportedPath": "дополнительные-материалы/м.в.попов-пособие-по-изучению-науки-логики/00-введение.html",
       "dependencies": []
     },
     "Дополнительные материалы/М.В.Попов - Пособие по изучению Науки Логики/01 Т.1. Объективная логика. Первая книга. Учение о бытии.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 42968,
       "exportedPath": "дополнительные-материалы/м.в.попов-пособие-по-изучению-науки-логики/01-т.1.-объективная-логика.-первая-книга.-учение-о-бытии.html",
       "dependencies": []
     },
     "Дополнительные материалы/М.В.Попов - Пособие по изучению Науки Логики/02 Т.1. Объективная логика. Вторая книга. Учение о сущности.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 44472,
       "exportedPath": "дополнительные-материалы/м.в.попов-пособие-по-изучению-науки-логики/02-т.1.-объективная-логика.-вторая-книга.-учение-о-сущности.html",
       "dependencies": []
     },
     "Дополнительные материалы/М.В.Попов - Пособие по изучению Науки Логики/03 Т. 2. Субъективная логика. Третья книга. Учение о понятии.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 86875,
       "exportedPath": "дополнительные-материалы/м.в.попов-пособие-по-изучению-науки-логики/03-т.-2.-субъективная-логика.-третья-книга.-учение-о-понятии.html",
       "dependencies": []
     },
     "Дополнительные материалы/М.В.Попов - Пособие по изучению Науки Логики/04 Послесловие. О диалектике формальной логики и диалектической логики.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 73947,
       "exportedPath": "дополнительные-материалы/м.в.попов-пособие-по-изучению-науки-логики/04-послесловие.-о-диалектике-формальной-логики-и-диалектической-логики.html",
       "dependencies": []
     },
     "Дополнительные материалы/М.В.Попов - Пособие по изучению Науки Логики/05 Список рекомендуемой литературы.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1942,
       "exportedPath": "дополнительные-материалы/м.в.попов-пособие-по-изучению-науки-логики/05-список-рекомендуемой-литературы.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/images/clip_image001.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 6059,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image001.png",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/images/clip_image001 1.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 10931,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image001-1.png",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/images/clip_image002.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 2389,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image002.png",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/images/clip_image003.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 2300,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image003.png",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/00. Набросок общего плана.md": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 12243,
+      "modifiedTime": 1712344672619,
+      "sourceSize": 12246,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/00.-набросок-общего-плана.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/01. Введение.md": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 95471,
+      "modifiedTime": 1712344672619,
+      "sourceSize": 95479,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/01.-введение.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/02. О диалектике.md": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 55643,
+      "modifiedTime": 1712344672619,
+      "sourceSize": 55647,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/02.-о-диалектике.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/03. Естествознание в мире духов.md": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 57352,
+      "modifiedTime": 1712344672619,
+      "sourceSize": 57360,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/03.-естествознание-в-мире-духов.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/04. Диалектика.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 29418,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/04.-диалектика.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/05. Основные формы движения.md": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 81626,
+      "modifiedTime": 1712344672619,
+      "sourceSize": 81632,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/05.-основные-формы-движения.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/06. Мера движения. – Работа.md": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 70958,
+      "modifiedTime": 1712344672619,
+      "sourceSize": 70966,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/06.-мера-движения.-–-работа.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/07. Приливное трение. Кант и Томсон – Тейт.md": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 45707,
+      "modifiedTime": 1712344672619,
+      "sourceSize": 45709,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/07.-приливное-трение.-кант-и-томсон-–-тейт.html",
       "dependencies": [
         "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image001.png"
       ]
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/08. Электричество.md": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 250356,
+      "modifiedTime": 1712344672619,
+      "sourceSize": 250364,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/08.-электричество.html",
       "dependencies": [
         "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image001-1.png",
@@ -1841,1039 +1787,1003 @@
       ]
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/09. Роль труда в процессе превращения обезьяны в человека.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 63393,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/09.-роль-труда-в-процессе-превращения-обезьяны-в-человека.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/10. Заметки и фрагменты.md": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 116669,
+      "modifiedTime": 1712344672619,
+      "sourceSize": 116675,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/10.-заметки-и-фрагменты.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/11. Диалектика.md": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 28742,
+      "modifiedTime": 1712344672619,
+      "sourceSize": 28744,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/11.-диалектика.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/12. Случайность и необходимость.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 17450,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/12.-случайность-и-необходимость.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/13. Гегель, «Логика», т. I.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 6937,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/13.-гегель,-«логика»,-т.-i.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/14. О классификации суждений.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 44642,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/14.-о-классификации-суждений.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/15. О Негелиевской неспособности познавать бесконечное.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 47925,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/15.-о-негелиевской-неспособности-познавать-бесконечное.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/16. Формы движения материи. Классификация наук.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 35174,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/16.-формы-движения-материи.-классификация-наук.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/17. О «механическом» понимании природы.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 30916,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/17.-о-«механическом»-понимании-природы.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/18. Математика.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 36199,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/18.-математика.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/19. О прообразах математического бесконечного в действительном мире.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 30161,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/19.-о-прообразах-математического-бесконечного-в-действительном-мире.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/20. Механика и астрономия.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 4567,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/20.-механика-и-астрономия.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/21. Медлер. Неподвижные звезды.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 16386,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/21.-медлер.-неподвижные-звезды.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/22. Физика.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 56790,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/22.-физика.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/23. Химия.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 4267,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/23.-химия.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/24. Биология.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 9918,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/24.-биология.html",
       "dependencies": []
     },
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/25. Мориц Вагнер. «Спорные вопросы естествознания», I.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 70467,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/25.-мориц-вагнер.-«спорные-вопросы-естествознания»,-i.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 16497,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/media/image003.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 235,
       "exportedPath": "lib/media/image003.png",
       "dependencies": []
     },
     "lib/media/image004.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 332,
       "exportedPath": "lib/media/image004.png",
       "dependencies": []
     },
     "lib/media/image005.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 629,
       "exportedPath": "lib/media/image005.png",
       "dependencies": []
     },
     "lib/media/image002.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 289,
       "exportedPath": "lib/media/image002.png",
       "dependencies": []
     },
     "lib/media/image006.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 536,
       "exportedPath": "lib/media/image006.png",
       "dependencies": []
     },
     "lib/media/image007.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 540,
       "exportedPath": "lib/media/image007.png",
       "dependencies": []
     },
     "lib/media/image008.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 450,
       "exportedPath": "lib/media/image008.png",
       "dependencies": []
     },
     "lib/media/image009.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 356,
       "exportedPath": "lib/media/image009.png",
       "dependencies": []
     },
     "lib/media/image010.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1035,
       "exportedPath": "lib/media/image010.png",
       "dependencies": []
     },
     "lib/media/image011.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1092,
       "exportedPath": "lib/media/image011.png",
       "dependencies": []
     },
     "lib/media/image012.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 577,
       "exportedPath": "lib/media/image012.png",
       "dependencies": []
     },
     "lib/media/image013.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 308,
       "exportedPath": "lib/media/image013.png",
       "dependencies": []
     },
     "lib/media/image014.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 467,
       "exportedPath": "lib/media/image014.png",
       "dependencies": []
     },
     "lib/media/image015.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 2507,
       "exportedPath": "lib/media/image015.png",
       "dependencies": []
     },
     "lib/media/image110.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 375,
       "exportedPath": "lib/media/image110.png",
       "dependencies": []
     },
     "lib/media/image111.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 576,
       "exportedPath": "lib/media/image111.png",
       "dependencies": []
     },
     "lib/media/image112.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1078,
       "exportedPath": "lib/media/image112.png",
       "dependencies": []
     },
     "lib/media/image113.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1308,
       "exportedPath": "lib/media/image113.png",
       "dependencies": []
     },
     "lib/media/image114.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 411,
       "exportedPath": "lib/media/image114.png",
       "dependencies": []
     },
     "lib/media/image115.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 577,
       "exportedPath": "lib/media/image115.png",
       "dependencies": []
     },
     "lib/media/image116.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 678,
       "exportedPath": "lib/media/image116.png",
       "dependencies": []
     },
     "lib/media/image117.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 279,
       "exportedPath": "lib/media/image117.png",
       "dependencies": []
     },
     "lib/media/image118.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 355,
       "exportedPath": "lib/media/image118.png",
       "dependencies": []
     },
     "lib/media/image119.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 681,
       "exportedPath": "lib/media/image119.png",
       "dependencies": []
     },
     "lib/media/image120.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 442,
       "exportedPath": "lib/media/image120.png",
       "dependencies": []
     },
     "lib/media/image016.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 317,
       "exportedPath": "lib/media/image016.png",
       "dependencies": []
     },
     "lib/media/image018.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 414,
       "exportedPath": "lib/media/image018.png",
       "dependencies": []
     },
     "lib/media/image019.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 407,
       "exportedPath": "lib/media/image019.png",
       "dependencies": []
     },
     "lib/media/image020.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 488,
       "exportedPath": "lib/media/image020.png",
       "dependencies": []
     },
     "lib/media/image021.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 281,
       "exportedPath": "lib/media/image021.png",
       "dependencies": []
     },
     "lib/media/image022.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 466,
       "exportedPath": "lib/media/image022.png",
       "dependencies": []
     },
     "lib/media/image023.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 336,
       "exportedPath": "lib/media/image023.png",
       "dependencies": []
     },
     "lib/media/image024.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1018,
       "exportedPath": "lib/media/image024.png",
       "dependencies": []
     },
     "lib/media/image025.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 802,
       "exportedPath": "lib/media/image025.png",
       "dependencies": []
     },
     "lib/media/image026.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1013,
       "exportedPath": "lib/media/image026.png",
       "dependencies": []
     },
     "lib/media/image027.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 294,
       "exportedPath": "lib/media/image027.png",
       "dependencies": []
     },
     "lib/media/image028.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 216,
       "exportedPath": "lib/media/image028.png",
       "dependencies": []
     },
     "lib/media/image029.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 280,
       "exportedPath": "lib/media/image029.png",
       "dependencies": []
     },
     "lib/media/image030.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 580,
       "exportedPath": "lib/media/image030.png",
       "dependencies": []
     },
     "lib/media/image031.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 627,
       "exportedPath": "lib/media/image031.png",
       "dependencies": []
     },
     "lib/media/image032.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 403,
       "exportedPath": "lib/media/image032.png",
       "dependencies": []
     },
     "lib/media/image033.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 513,
       "exportedPath": "lib/media/image033.png",
       "dependencies": []
     },
     "lib/media/image035.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 302,
       "exportedPath": "lib/media/image035.png",
       "dependencies": []
     },
     "lib/media/image036.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 584,
       "exportedPath": "lib/media/image036.png",
       "dependencies": []
     },
     "lib/media/image037.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 835,
       "exportedPath": "lib/media/image037.png",
       "dependencies": []
     },
     "lib/media/image017.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 667,
       "exportedPath": "lib/media/image017.png",
       "dependencies": []
     },
     "lib/media/image038.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 638,
       "exportedPath": "lib/media/image038.png",
       "dependencies": []
     },
     "lib/media/image101.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 567,
       "exportedPath": "lib/media/image101.png",
       "dependencies": []
     },
     "lib/media/image102.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 372,
       "exportedPath": "lib/media/image102.png",
       "dependencies": []
     },
     "lib/media/image103.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 501,
       "exportedPath": "lib/media/image103.png",
       "dependencies": []
     },
     "lib/media/image104.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 321,
       "exportedPath": "lib/media/image104.png",
       "dependencies": []
     },
     "lib/media/image039.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 390,
       "exportedPath": "lib/media/image039.png",
       "dependencies": []
     },
     "lib/media/image040.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 689,
       "exportedPath": "lib/media/image040.png",
       "dependencies": []
     },
     "lib/media/image041.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 409,
       "exportedPath": "lib/media/image041.png",
       "dependencies": []
     },
     "lib/media/image042.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 645,
       "exportedPath": "lib/media/image042.png",
       "dependencies": []
     },
     "lib/media/image043.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 571,
       "exportedPath": "lib/media/image043.png",
       "dependencies": []
     },
     "lib/media/image044.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 519,
       "exportedPath": "lib/media/image044.png",
       "dependencies": []
     },
     "lib/media/image045.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 440,
       "exportedPath": "lib/media/image045.png",
       "dependencies": []
     },
     "lib/media/image121.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 644,
       "exportedPath": "lib/media/image121.png",
       "dependencies": []
     },
     "lib/media/image122.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 872,
       "exportedPath": "lib/media/image122.png",
       "dependencies": []
     },
     "lib/media/image123.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 673,
       "exportedPath": "lib/media/image123.png",
       "dependencies": []
     },
     "lib/media/image046.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1372,
       "exportedPath": "lib/media/image046.png",
       "dependencies": []
     },
     "lib/media/image047.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 683,
       "exportedPath": "lib/media/image047.png",
       "dependencies": []
     },
     "lib/media/image048.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 560,
       "exportedPath": "lib/media/image048.png",
       "dependencies": []
     },
     "lib/media/image049.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 463,
       "exportedPath": "lib/media/image049.png",
       "dependencies": []
     },
     "lib/media/image050.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 712,
       "exportedPath": "lib/media/image050.png",
       "dependencies": []
     },
     "lib/media/image051.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 450,
       "exportedPath": "lib/media/image051.png",
       "dependencies": []
     },
     "lib/media/image052.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 481,
       "exportedPath": "lib/media/image052.png",
       "dependencies": []
     },
     "lib/media/image053.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 314,
       "exportedPath": "lib/media/image053.png",
       "dependencies": []
     },
     "lib/media/image054.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 501,
       "exportedPath": "lib/media/image054.png",
       "dependencies": []
     },
     "lib/media/image055.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 474,
       "exportedPath": "lib/media/image055.png",
       "dependencies": []
     },
     "lib/media/image056.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 393,
       "exportedPath": "lib/media/image056.png",
       "dependencies": []
     },
     "lib/media/image057.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 521,
       "exportedPath": "lib/media/image057.png",
       "dependencies": []
     },
     "lib/media/image058.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 340,
       "exportedPath": "lib/media/image058.png",
       "dependencies": []
     },
     "lib/media/image059.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 444,
       "exportedPath": "lib/media/image059.png",
       "dependencies": []
     },
     "lib/media/image060.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 775,
       "exportedPath": "lib/media/image060.png",
       "dependencies": []
     },
     "lib/media/image061.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 537,
       "exportedPath": "lib/media/image061.png",
       "dependencies": []
     },
     "lib/media/image062.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 809,
       "exportedPath": "lib/media/image062.png",
       "dependencies": []
     },
     "lib/media/image063.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 662,
       "exportedPath": "lib/media/image063.png",
       "dependencies": []
     },
     "lib/media/image064.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 642,
       "exportedPath": "lib/media/image064.png",
       "dependencies": []
     },
     "lib/media/image065.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 281,
       "exportedPath": "lib/media/image065.png",
       "dependencies": []
     },
     "lib/media/image066.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 434,
       "exportedPath": "lib/media/image066.png",
       "dependencies": []
     },
     "lib/media/image067.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 466,
       "exportedPath": "lib/media/image067.png",
       "dependencies": []
     },
     "lib/media/image068.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 709,
       "exportedPath": "lib/media/image068.png",
       "dependencies": []
     },
     "lib/media/image069.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 563,
       "exportedPath": "lib/media/image069.png",
       "dependencies": []
     },
     "lib/media/image070.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 510,
       "exportedPath": "lib/media/image070.png",
       "dependencies": []
     },
     "lib/media/image071.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 612,
       "exportedPath": "lib/media/image071.png",
       "dependencies": []
     },
     "lib/media/image072.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 368,
       "exportedPath": "lib/media/image072.png",
       "dependencies": []
     },
     "lib/media/image073.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 497,
       "exportedPath": "lib/media/image073.png",
       "dependencies": []
     },
     "lib/media/image074.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 526,
       "exportedPath": "lib/media/image074.png",
       "dependencies": []
     },
     "lib/media/image075.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 469,
       "exportedPath": "lib/media/image075.png",
       "dependencies": []
     },
     "lib/media/image076.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 850,
       "exportedPath": "lib/media/image076.png",
       "dependencies": []
     },
     "lib/media/image077.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 438,
       "exportedPath": "lib/media/image077.png",
       "dependencies": []
     },
     "lib/media/image078.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 401,
       "exportedPath": "lib/media/image078.png",
       "dependencies": []
     },
     "lib/media/image079.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 784,
       "exportedPath": "lib/media/image079.png",
       "dependencies": []
     },
     "lib/media/image080.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 452,
       "exportedPath": "lib/media/image080.png",
       "dependencies": []
     },
     "lib/media/image081.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 355,
       "exportedPath": "lib/media/image081.png",
       "dependencies": []
     },
     "lib/media/image082.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 345,
       "exportedPath": "lib/media/image082.png",
       "dependencies": []
     },
     "lib/media/image083.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 383,
       "exportedPath": "lib/media/image083.png",
       "dependencies": []
     },
     "lib/media/image084.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 478,
       "exportedPath": "lib/media/image084.png",
       "dependencies": []
     },
     "lib/media/image105.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 490,
       "exportedPath": "lib/media/image105.png",
       "dependencies": []
     },
     "lib/media/image106.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 329,
       "exportedPath": "lib/media/image106.png",
       "dependencies": []
     },
     "lib/media/image085.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 259,
       "exportedPath": "lib/media/image085.png",
       "dependencies": []
     },
     "lib/media/image124.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 409,
       "exportedPath": "lib/media/image124.png",
       "dependencies": []
     },
     "lib/media/image125.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 425,
       "exportedPath": "lib/media/image125.png",
       "dependencies": []
     },
     "lib/media/image126.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 360,
       "exportedPath": "lib/media/image126.png",
       "dependencies": []
     },
     "lib/media/image107.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 393,
       "exportedPath": "lib/media/image107.png",
       "dependencies": []
     },
     "lib/media/image108.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 534,
       "exportedPath": "lib/media/image108.png",
       "dependencies": []
     },
     "lib/media/image086.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 580,
       "exportedPath": "lib/media/image086.png",
       "dependencies": []
     },
     "lib/media/image087.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 501,
       "exportedPath": "lib/media/image087.png",
       "dependencies": []
     },
     "lib/media/image088.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 451,
       "exportedPath": "lib/media/image088.png",
       "dependencies": []
     },
     "lib/media/image089.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 599,
       "exportedPath": "lib/media/image089.png",
       "dependencies": []
     },
     "lib/media/image090.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 457,
       "exportedPath": "lib/media/image090.png",
       "dependencies": []
     },
     "lib/media/image091.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 562,
       "exportedPath": "lib/media/image091.png",
       "dependencies": []
     },
     "lib/media/image092.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 566,
       "exportedPath": "lib/media/image092.png",
       "dependencies": []
     },
     "lib/media/image093.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 416,
       "exportedPath": "lib/media/image093.png",
       "dependencies": []
     },
     "lib/media/image094.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 416,
       "exportedPath": "lib/media/image094.png",
       "dependencies": []
     },
     "lib/media/image095.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 268,
       "exportedPath": "lib/media/image095.png",
       "dependencies": []
     },
     "lib/media/image096.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 298,
       "exportedPath": "lib/media/image096.png",
       "dependencies": []
     },
     "lib/media/image097.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 355,
       "exportedPath": "lib/media/image097.png",
       "dependencies": []
     },
     "lib/media/image098.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 380,
       "exportedPath": "lib/media/image098.png",
       "dependencies": []
     },
     "lib/media/image099.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 565,
       "exportedPath": "lib/media/image099.png",
       "dependencies": []
     },
     "lib/media/image001.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 350,
       "exportedPath": "lib/media/image001.png",
       "dependencies": []
     },
     "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image001.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 6059,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image001.png",
       "dependencies": []
     },
     "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image001-1.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 10931,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image001-1.png",
       "dependencies": []
     },
     "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image002.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 2389,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image002.png",
       "dependencies": []
     },
     "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image003.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 2300,
       "exportedPath": "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image003.png",
       "dependencies": []
     },
-    "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 23377,
-      "exportedPath": "lib/scripts/graph-wasm.wasm",
-      "dependencies": []
-    },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 88574,
+      "modifiedTime": 1712344672619,
+      "sourceSize": 84456,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
-    "lib/scripts/graph-view.js": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 15519,
-      "exportedPath": "lib/scripts/graph-view.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 14021,
-      "exportedPath": "lib/scripts/graph-wasm.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 5179,
-      "exportedPath": "lib/scripts/graph-render-worker.js",
-      "dependencies": []
-    },
-    "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 29832,
-      "exportedPath": "lib/scripts/tinycolor.js",
-      "dependencies": []
-    },
-    "lib/scripts/pixi.js": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 449509,
-      "exportedPath": "lib/scripts/pixi.js",
-      "dependencies": []
-    },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
-    "lib/scripts/graph-data.js": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 9826,
-      "exportedPath": "lib/scripts/graph-data.js",
+    "lib/html/custom-head-content.html": {
+      "modifiedTime": 1712344672619,
+      "sourceSize": 32,
+      "exportedPath": "lib/html/custom-head-content.html",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1710580668100,
-      "sourceSize": 157356,
+      "modifiedTime": 1712344672619,
+      "sourceSize": 157786,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1710580668100,
+      "modifiedTime": 1712344672619,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []

@@ -1,6 +1,6 @@
 {
   "vaultName": "Dialectx",
-  "lastExport": 1712344672619,
+  "lastExport": 1712762001931,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": true,
@@ -176,6 +176,16 @@
     "Дополнительные материалы/М.В.Попов - Пособие по изучению Науки Логики/03 Т. 2. Субъективная логика. Третья книга. Учение о понятии.md",
     "Дополнительные материалы/М.В.Попов - Пособие по изучению Науки Логики/04 Послесловие. О диалектике формальной логики и диалектической логики.md",
     "Дополнительные материалы/М.В.Попов - Пособие по изучению Науки Логики/05 Список рекомендуемой литературы.md",
+    "Дополнительные материалы/Малая Логика/00. Предисловия.md",
+    "Дополнительные материалы/Малая Логика/01. Введение.md",
+    "Дополнительные материалы/Малая Логика/02. Предварительное понятие.md",
+    "Дополнительные материалы/Малая Логика/03. Первое отношение мысли к объективности.md",
+    "Дополнительные материалы/Малая Логика/04. Второе отношение мысли к объективности.md",
+    "Дополнительные материалы/Малая Логика/05. Третье отношение мысли к объективности.md",
+    "Дополнительные материалы/Малая Логика/06. Дальнейшее определение логики и ее разделение.md",
+    "Дополнительные материалы/Малая Логика/07. Учение о бытии.md",
+    "Дополнительные материалы/Малая Логика/08. Учение о сущности.md",
+    "Дополнительные материалы/Малая Логика/09. Учение о понятии.md",
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/images/clip_image001.png",
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/images/clip_image001 1.png",
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/images/clip_image002.png",
@@ -207,6 +217,28 @@
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/24. Биология.md",
     "Дополнительные материалы/Ф.Энгельс - Диалектика природы/25. Мориц Вагнер. «Спорные вопросы естествознания», I.md",
     "index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/html/custom-head-content.html",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
     "lib/media/image003.png",
     "lib/media/image004.png",
     "lib/media/image005.png",
@@ -330,28 +362,10 @@
     "lib/media/image098.png",
     "lib/media/image099.png",
     "lib/media/image001.png",
-    "lib/fonts/94f2f163d4b698242fef.otf",
-    "lib/fonts/72505e6a122c6acd5471.woff2",
-    "lib/fonts/2d5198822ab091ce4305.woff2",
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "lib/fonts/b5f0f109bc88052d4000.woff2",
-    "lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "lib/fonts/70cc7ff27245e82ad414.ttf",
-    "lib/fonts/454577c22304619db035.ttf",
-    "lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "lib/fonts/05b618077343fbbd92b7.ttf",
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/html/custom-head-content.html",
-    "lib/styles/obsidian.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image001.png",
+    "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image001-1.png",
+    "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image002.png",
+    "дополнительные-материалы/ф.энгельс-диалектика-природы/images/clip_image003.png"
   ],
   "mainDependencies": [
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -2657,135 +2671,195 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1712344672619,
-      "sourceSize": 84456,
+      "modifiedTime": 1712762001931,
+      "sourceSize": 88962,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/html/custom-head-content.html": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 32,
       "exportedPath": "lib/html/custom-head-content.html",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 157786,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1712344672619,
+      "modifiedTime": 1712762001931,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Дополнительные материалы/Малая Логика/00. Предисловия.md": {
+      "modifiedTime": 1712762001931,
+      "sourceSize": 54371,
+      "exportedPath": "дополнительные-материалы/малая-логика/00.-предисловия.html",
+      "dependencies": []
+    },
+    "Дополнительные материалы/Малая Логика/01. Введение.md": {
+      "modifiedTime": 1712762001931,
+      "sourceSize": 80729,
+      "exportedPath": "дополнительные-материалы/малая-логика/01.-введение.html",
+      "dependencies": []
+    },
+    "Дополнительные материалы/Малая Логика/02. Предварительное понятие.md": {
+      "modifiedTime": 1712762001931,
+      "sourceSize": 108690,
+      "exportedPath": "дополнительные-материалы/малая-логика/02.-предварительное-понятие.html",
+      "dependencies": []
+    },
+    "Дополнительные материалы/Малая Логика/03. Первое отношение мысли к объективности.md": {
+      "modifiedTime": 1712762001931,
+      "sourceSize": 56326,
+      "exportedPath": "дополнительные-материалы/малая-логика/03.-первое-отношение-мысли-к-объективности.html",
+      "dependencies": []
+    },
+    "Дополнительные материалы/Малая Логика/04. Второе отношение мысли к объективности.md": {
+      "modifiedTime": 1712762001931,
+      "sourceSize": 153074,
+      "exportedPath": "дополнительные-материалы/малая-логика/04.-второе-отношение-мысли-к-объективности.html",
+      "dependencies": []
+    },
+    "Дополнительные материалы/Малая Логика/05. Третье отношение мысли к объективности.md": {
+      "modifiedTime": 1712762001931,
+      "sourceSize": 71070,
+      "exportedPath": "дополнительные-материалы/малая-логика/05.-третье-отношение-мысли-к-объективности.html",
+      "dependencies": []
+    },
+    "Дополнительные материалы/Малая Логика/06. Дальнейшее определение логики и ее разделение.md": {
+      "modifiedTime": 1712762001931,
+      "sourceSize": 50679,
+      "exportedPath": "дополнительные-материалы/малая-логика/06.-дальнейшее-определение-логики-и-ее-разделение.html",
+      "dependencies": []
+    },
+    "Дополнительные материалы/Малая Логика/07. Учение о бытии.md": {
+      "modifiedTime": 1712762001931,
+      "sourceSize": 194151,
+      "exportedPath": "дополнительные-материалы/малая-логика/07.-учение-о-бытии.html",
+      "dependencies": []
+    },
+    "Дополнительные материалы/Малая Логика/08. Учение о сущности.md": {
+      "modifiedTime": 1712762001931,
+      "sourceSize": 304980,
+      "exportedPath": "дополнительные-материалы/малая-логика/08.-учение-о-сущности.html",
+      "dependencies": []
+    },
+    "Дополнительные материалы/Малая Логика/09. Учение о понятии.md": {
+      "modifiedTime": 1712762001931,
+      "sourceSize": 328951,
+      "exportedPath": "дополнительные-материалы/малая-логика/09.-учение-о-понятии.html",
       "dependencies": []
     }
   }

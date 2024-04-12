@@ -16,9 +16,12 @@ function main() {
         console.log('jQuery is ready!');
         
         // Save last opened page and scroll position
-        $(window).on('beforeunload', function() {
-            localStorage.setItem('lastPage', window.location.href);
-            localStorage.setItem('scrollTop', $('.markdown-preview-view').scrollTop());
+        $(window).on('beforeunload', function(event) {
+            // Check if the current page is not the index page
+            if (!(window.location.pathname === '/index.html' || window.location.pathname === '/')) {
+                localStorage.setItem('lastPage', window.location.href);
+                localStorage.setItem('scrollTop', $('.markdown-preview-view').scrollTop());
+            }
         });
   
         // Check if we're on the index page
@@ -29,14 +32,14 @@ function main() {
   
             if (lastPage && scrollTop) {
                 // Append the 'Continue reading' button
-                var continueReadingButton = $('<button>').text('Продолжить чтение').addClass('continue-reading-button');
+                var continueReadingButton = $('<button>').text('Continue reading').addClass('continue-reading-button');
                 continueReadingButton.css({
                     position: 'absolute',
                     bottom: '20px',
                     left: '50%',
                     transform: 'translateX(-50%)',
                     padding: '10px 20px',
-                    background: '#8a5cf5',
+                    background: '#007bff',
                     color: '#fff',
                     border: 'none',
                     borderRadius: '5px',

@@ -47,16 +47,19 @@ function main() {
                 });
                 continueReadingButton.appendTo('body');
 
-                // Add click event handler to the button to redirect
+                // Add click event handler to the button to redirect and scroll
                 continueReadingButton.on('click', function() {
                     window.location.href = lastPage; // Redirect to the last page
+                    // Scroll to the saved position after 2 seconds
+                /*
+                    setTimeout(function() {
+                        $('.markdown-preview-view').scrollTop(scrollTop);
+                    }, 2000);
                 });
+*/
             }
         }
     });
-
-    // Add window onload event to scroll to saved position after redirect
-
 }
 
 // Load jQuery

@@ -29,14 +29,14 @@ function main() {
   
             if (lastPage && scrollTop) {
                 // Append the 'Continue reading' button
-                var continueReadingButton = $('<button>').text('Continue reading').addClass('continue-reading-button');
+                var continueReadingButton = $('<button>').text('Продолжить чтение').addClass('continue-reading-button');
                 continueReadingButton.css({
                     position: 'absolute',
                     bottom: '20px',
                     left: '50%',
                     transform: 'translateX(-50%)',
                     padding: '10px 20px',
-                    background: '#007bff',
+                    background: '#8a5cf5',
                     color: '#fff',
                     border: 'none',
                     borderRadius: '5px',
@@ -47,6 +47,10 @@ function main() {
                 // Add click event handler to the button to redirect and scroll
                 continueReadingButton.on('click', function() {
                     window.location.href = lastPage; // Redirect to the last page
+                    // Scroll to the saved position after 2 seconds
+                    setTimeout(function() {
+                        $('.markdown-preview-view').scrollTop(scrollTop);
+                    }, 2000);
                 });
             }
         }

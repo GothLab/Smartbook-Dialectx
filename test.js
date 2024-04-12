@@ -19,7 +19,7 @@ function main() {
 // Load jQuery and execute main function
 loadJQuery(main,function() {
     // Check if localStorage is supported
-    if (typeof(Storage) !== "undefined") {
+
       // Save last opened page and scroll position
       $(window).on('beforeunload', function() {
         localStorage.setItem('lastPage', window.location.href);
@@ -37,9 +37,7 @@ loadJQuery(main,function() {
           $(window).scrollTop(scrollTop); // Scroll to saved position
         }
       }
-    } else {
-      console.log('localStorage is not supported');
-    }
+   
   });
 
 

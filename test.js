@@ -14,19 +14,22 @@ function main() {
     $(document).ready(function() {
         // Your jQuery-dependent code
         console.log('jQuery is ready!');
-        
-        // Save last opened page and scroll position
-        $(window).on('beforeunload', function() {
-            localStorage.setItem('lastPage', window.location.href);
-            localStorage.setItem('scrollTop', $('.markdown-preview-view').scrollTop());
-        });
-  
+
+        // Check if we're not on the index page
+        if (window.location.pathname !== '/index.html' && window.location.pathname !== '/') {
+            // Save last opened page and scroll position
+            $(window).on('beforeunload', function() {
+                localStorage.setItem('lastPage', window.location.href);
+                localStorage.setItem('scrollTop', $('.markdown-preview-view').scrollTop());
+            });
+        }
+
         // Check if we're on the index page
         if (window.location.pathname === '/index.html' || window.location.pathname === '/') {
             // Load last opened page and scroll to position
             var lastPage = localStorage.getItem('lastPage');
             var scrollTop = localStorage.getItem('scrollTop');
-  
+
             if (lastPage && scrollTop) {
                 // Append the 'Continue reading' button
                 var continueReadingButton = $('<button>').text('Продолжить чтение').addClass('continue-reading-button');
@@ -43,7 +46,7 @@ function main() {
                     cursor: 'pointer'
                 });
                 continueReadingButton.appendTo('body');
-                
+
                 // Add click event handler to the button to redirect and scroll
                 continueReadingButton.on('click', function() {
                     window.location.href = lastPage; // Redirect to the last page

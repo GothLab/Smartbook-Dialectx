@@ -18,7 +18,7 @@ function main() {
         // Save last opened page and scroll position
         $(window).on('beforeunload', function() {
             localStorage.setItem('lastPage', window.location.href);
-            localStorage.setItem('scrollTop', $(window).scrollTop());
+            localStorage.setItem('scrollTop', $('.markdown-preview-view').scrollTop());
         });
   
         // Check if we're on the index page
@@ -29,7 +29,7 @@ function main() {
   
             if (lastPage && scrollTop) {
                 window.location.href = lastPage; // Load last opened page
-                $(window).scrollTop(scrollTop); // Scroll to saved position
+                $('.markdown-preview-view').scrollTop(scrollTop); // Scroll to saved position
             }
         }
     });

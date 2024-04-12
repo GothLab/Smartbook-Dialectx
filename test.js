@@ -47,17 +47,24 @@ function main() {
                 });
                 continueReadingButton.appendTo('body');
 
-                // Add click event handler to the button to redirect and scroll
+                // Add click event handler to the button to redirect
                 continueReadingButton.on('click', function() {
                     window.location.href = lastPage; // Redirect to the last page
-                    // Scroll to the saved position after 2 seconds
-                    setTimeout(function() {
-                        $('.markdown-preview-view').scrollTop(scrollTop);
-                    }, 2000);
                 });
             }
         }
     });
+
+    // Add window onload event to scroll to saved position after redirect
+    window.onload = function() {
+        // Check if we're not on the index page
+        if (window.location.pathname !== '/index.html' && window.location.pathname !== '/') {
+            var scrollTop = localStorage.getItem('scrollTop');
+            if (scrollTop) {
+                $('.markdown-preview-view').scrollTop(scrollTop);
+            }
+        }
+    };
 }
 
 // Load jQuery

@@ -18,3 +18,30 @@ function main() {
 
 // Load jQuery and execute main function
 loadJQuery(main);
+
+
+//
+$(document).ready(function() {
+    // Check if localStorage is supported
+    if (typeof(Storage) !== "undefined") {
+      // Save last opened page and scroll position
+      $(window).on('beforeunload', function() {
+        localStorage.setItem('lastPage', window.location.href);
+        localStorage.setItem('scrollTop', $(window).scrollTop());
+      });
+  
+      // Check if we're on the index page
+      if (window.location.pathname === '/index.html' || window.location.pathname === '/') {
+        // Load last opened page and scroll to position
+        var lastPage = localStorage.getItem('lastPage');
+        var scrollTop = localStorage.getItem('scrollTop');
+  
+        if (lastPage && scrollTop) {
+          window.location.href = lastPage; // Load last opened page
+          $(window).scrollTop(scrollTop); // Scroll to saved position
+        }
+      }
+    } else {
+      console.log('localStorage is not supported');
+    }
+  });

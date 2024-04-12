@@ -56,19 +56,7 @@ function main() {
     });
 
     // Add window onload event to scroll to saved position after redirect
-    window.onload = function() {
-        // Check if we're not on the index page
-        if (window.location.pathname !== '/index.html' && window.location.pathname !== '/') {
-            var scrollTop = localStorage.getItem('scrollTop');
-            if (scrollTop) {
-               /*
-                setTimeout(function() {
-                    $('.markdown-preview-view').scrollTop(scrollTop);
-                }, 2000);
-                */
-            }
-        }
-    };
+
 }
 
 // Load jQuery

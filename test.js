@@ -29,7 +29,7 @@ function main() {
             var scrollTop = localStorage.getItem('scrollTop');
             var redirected = localStorage.getItem('redirected');
   
-            if (lastPage && scrollTop && !redirected) {
+            if (lastPage && scrollTop && !redirected && lastPage !== '/index.html' && lastPage !== '/') {
                 window.location.href = lastPage; // Load last opened page
                 $('.markdown-preview-view').scrollTop(scrollTop); // Scroll to saved position
             }

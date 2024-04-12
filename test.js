@@ -17,11 +17,7 @@ function main() {
 }
 
 // Load jQuery and execute main function
-loadJQuery(main);
-
-
-//
-$(document).ready(function() {
+loadJQuery(main,function() {
     // Check if localStorage is supported
     if (typeof(Storage) !== "undefined") {
       // Save last opened page and scroll position
@@ -45,3 +41,6 @@ $(document).ready(function() {
       console.log('localStorage is not supported');
     }
   });
+
+
+//

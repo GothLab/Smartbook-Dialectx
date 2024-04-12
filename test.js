@@ -19,15 +19,17 @@ function main() {
         $(window).on('beforeunload', function() {
             localStorage.setItem('lastPage', window.location.href);
             localStorage.setItem('scrollTop', $('.markdown-preview-view').scrollTop());
+            localStorage.setItem('redirected', 'true'); // Set redirected flag
         });
   
         // Check if we're on the index page
         if (window.location.pathname === '/index.html' || window.location.pathname === '/') {
-            // Load last opened page and scroll to position
+            // Load last opened page and scroll to position if not already redirected
             var lastPage = localStorage.getItem('lastPage');
             var scrollTop = localStorage.getItem('scrollTop');
+            var redirected = localStorage.getItem('redirected');
   
-            if (lastPage && scrollTop) {
+            if (lastPage && scrollTop && !redirected) {
                 window.location.href = lastPage; // Load last opened page
                 $('.markdown-preview-view').scrollTop(scrollTop); // Scroll to saved position
             }

@@ -19,37 +19,38 @@ function main() {
         $(window).on('beforeunload', function() {
             localStorage.setItem('lastPage', window.location.href);
             localStorage.setItem('scrollTop', $('.markdown-preview-view').scrollTop());
-            localStorage.setItem('redirected', 'true'); // Set redirected flag
         });
   
         // Check if we're on the index page
         if (window.location.pathname === '/index.html' || window.location.pathname === '/') {
-            // Load last opened page and scroll to position if not already redirected
+            // Load last opened page and scroll to position
             var lastPage = localStorage.getItem('lastPage');
             var scrollTop = localStorage.getItem('scrollTop');
-            var redirected = localStorage.getItem('redirected');
   
-            if (lastPage && scrollTop && !redirected && lastPage !== '/index.html' && lastPage !== '/') {
-                // Append a button to continue reading
-                var continueButton = $('<button>Continue reading</button>');
-                continueButton.css({
-                    'position': 'absolute',
-                    'bottom': '20px',
-                    'left': '50%',
-                    'transform': 'translateX(-50%)',
-                    'padding': '10px 20px',
-                    'background-color': '#007bff',
-                    'color': '#fff',
-                    'border': 'none',
-                    'border-radius': '5px',
-                    'cursor': 'pointer'
-                });
-                continueButton.click(function() {
-                    window.location.href = lastPage; // Redirect to last opened page
-                });
-                $('body').append(continueButton);
-                
+            if (lastPage && scrollTop) {
+                window.location.href = lastPage; // Load last opened page
                 $('.markdown-preview-view').scrollTop(scrollTop); // Scroll to saved position
+            } else {
+                // Append the 'Continue reading' button
+                var continueReadingButton = $('<button>').text('Continue reading').addClass('continue-reading-button');
+                continueReadingButton.css({
+                    position: 'absolute',
+                    bottom: '20px',
+                    left: '50%',
+                    transform: 'translateX(-50%)',
+                    padding: '10px 20px',
+                    background: '#007bff',
+                    color: '#fff',
+                    border: 'none',
+                    borderRadius: '5px',
+                    cursor: 'pointer'
+                });
+                continueReadingButton.appendTo('body');
+                
+                // Add click event handler to the button to redirect
+                continueReadingButton.on('click', function() {
+                    window.location.href = '/'; // Redirect to the index page
+                });
             }
         }
     });

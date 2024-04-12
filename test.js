@@ -30,7 +30,25 @@ function main() {
             var redirected = localStorage.getItem('redirected');
   
             if (lastPage && scrollTop && !redirected && lastPage !== '/index.html' && lastPage !== '/') {
-                window.location.href = lastPage; // Load last opened page
+                // Append a button to continue reading
+                var continueButton = $('<button>Continue reading</button>');
+                continueButton.css({
+                    'position': 'absolute',
+                    'bottom': '20px',
+                    'left': '50%',
+                    'transform': 'translateX(-50%)',
+                    'padding': '10px 20px',
+                    'background-color': '#007bff',
+                    'color': '#fff',
+                    'border': 'none',
+                    'border-radius': '5px',
+                    'cursor': 'pointer'
+                });
+                continueButton.click(function() {
+                    window.location.href = lastPage; // Redirect to last opened page
+                });
+                $('body').append(continueButton);
+                
                 $('.markdown-preview-view').scrollTop(scrollTop); // Scroll to saved position
             }
         }

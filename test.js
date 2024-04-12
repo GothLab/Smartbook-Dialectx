@@ -61,7 +61,9 @@ function main() {
         if (window.location.pathname !== '/index.html' && window.location.pathname !== '/') {
             var scrollTop = localStorage.getItem('scrollTop');
             if (scrollTop) {
-                $('.markdown-preview-view').scrollTop(scrollTop);
+                setTimeout(function() {
+                    $('.markdown-preview-view').scrollTop(scrollTop);
+                }, 2000);
             }
         }
     };

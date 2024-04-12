@@ -23,7 +23,7 @@ function main() {
   
         // Check if we're on the index page
      
-    );
+};
 
 
 // Load jQuery

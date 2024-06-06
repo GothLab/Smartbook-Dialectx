@@ -1,3 +1,4 @@
+/*
 // Dynamically load jQuery
 function loadJQuery() {
     var script = document.createElement('script');
@@ -56,7 +57,7 @@ function main() {
                         $('.markdown-preview-view').scrollTop(scrollTop);
                     }, 2000);
                 });
-*/
+
             }
         }
     });
@@ -64,3 +65,4 @@ function main() {
 
 // Load jQuery
 loadJQuery();
+*/
